@@ -1,0 +1,45 @@
+{
+  "name": "fde-bounty-snr",
+  "version": "0.1.0",
+  "description": "Open-source Signal-to-Noise filter that classifies Bug Bounty Hunters vs Senior AI FDEs and compounds leave-behind leverage — with CTAs to a2zsoc.com productized services.",
+  "type": "module",
+  "bin": {
+    "fde-bounty-snr": "./dist/cli.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "npm run build && node --test dist/**/*.test.js",
+    "demo": "npm run build && node dist/cli.js classify --fixture fixtures/demo-signals.json",
+    "snr": "npm run build && node dist/cli.js snr --corpus corpus/baseline.json --fixture fixtures/demo-signals.json"
+  },
+  "keywords": [
+    "ai-fde",
+    "bug-bounty",
+    "signal-to-noise",
+    "compounding-leverage",
+    "gate-prove",
+    "a2zsoc"
+  ],
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  },
+  "files": [
+    "dist",
+    "fixtures",
+    "corpus",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AAH20/fde-bounty-snr"
+  },
+  "homepage": "https://a2zsoc.com/productized-services?utm_source=github&utm_medium=oss&utm_campaign=fde-bounty-snr"
+}
