@@ -1,6 +1,5 @@
 /**
- * Bug Bounty Hunter vs Senior AI FDE classification + evolving SNR filter.
- * Compounding leave-behind: every scored signal updates corpus baselines.
+ * Evidence-policy rubric for Bug Bounty and AI FDE delivery claims.
  */
 
 export type BountyLevel = 0 | 1 | 2 | 3 | 4;
@@ -47,6 +46,8 @@ export interface SignalInput {
   informantOnlyNoFix: boolean;
   streetSmbMisSale: boolean;
   claimsCustomerTargetingWithoutEvidence: boolean;
+  /** Evidence references keyed by asserted signal, e.g. actionLedgerOrReceipts -> sha256/URL. */
+  evidence?: Record<string, string>;
 }
 
 export interface LevelResult {
@@ -61,10 +62,11 @@ export interface SnrBreakdown {
   signalScore: number;
   /** 0..1 — higher = more noise */
   noiseScore: number;
-  /** signal / max(noise, eps) capped */
-  snr: number;
-  /** vs corpus median snr — positive means beating baseline (compounding proof) */
-  snrDeltaVsCorpus: number;
+  /** Transparent policy score, not an empirical probability or validated SNR. */
+  policyScore: number;
+  /** Difference from the cumulative corpus median policy score. */
+  deltaVsCorpus: number;
+  evidenceCompleteness: number;
   components: Record<string, number>;
 }
 
@@ -88,13 +90,15 @@ export interface CorpusStats {
   version: number;
   updatedAt: string;
   sampleCount: number;
-  medianSnr: number;
+  medianPolicyScore: number;
   meanSignal: number;
   meanNoise: number;
   /** Rolling histogram of decisions — evolves the filter’s prior */
   decisionCounts: Partial<Record<FilterDecision, number>>;
   /** Leave-behinds: rules that fired often enough to become defaults */
   hotReasons: string[];
+  scoreHistogram: number[];
+  reasonCounts: Record<string, number>;
 }
 
 export const A2Z = {
@@ -108,7 +112,7 @@ export const A2Z = {
     "https://a2zsoc.com/agentic-trustops?utm_source=github&utm_medium=oss&utm_campaign=fde-bounty-snr",
 } as const;
 
-/** Human-readable ladders — Ultimate Mastery reference. */
+/** Human-readable policy ladders; these are hypotheses to validate with outcomes. */
 export const BOUNTY_LADDER: Record<BountyLevel, string> = {
   0: "L0 Noise — duplicates, unsafe demos, copy-paste CVSS theater",
   1: "L1 Valid unique low-impact finding",
@@ -118,9 +122,9 @@ export const BOUNTY_LADDER: Record<BountyLevel, string> = {
 };
 
 export const FDE_LADDER: Record<FdeLevel, string> = {
-  0: "L0 Ungated agent/demo theater or metered API cosplay",
+  0: "L0 Ungated demonstration or usage-priced interface without measured outcome",
   1: "L1 Ships in one live env without Gate/Prove spine",
   2: "L2 Gate/promote + ledger + kill-switch in customer estate",
   3: "L3 Remediation/retest loop + reusable leave-behinds (compounding)",
-  4: "L4 SI/partner attach + walk-away rate power (investable plant)",
+  4: "L4 Partner adoption + customer-concentration resilience",
 };

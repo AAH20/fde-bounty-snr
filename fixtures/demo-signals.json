@@ -21,7 +21,8 @@
     "meteredApiCosplay": false,
     "informantOnlyNoFix": true,
     "streetSmbMisSale": false,
-    "claimsCustomerTargetingWithoutEvidence": false
+    "claimsCustomerTargetingWithoutEvidence": false,
+    "evidence": {"ungatedAgentDemo":"fixture://demo/ungated","episodicHeroTicket":"fixture://demo/episodic","informantOnlyNoFix":"fixture://demo/no-fix"}
   },
   {
     "id": "bounty-l2-researcher",
@@ -45,11 +46,12 @@
     "meteredApiCosplay": false,
     "informantOnlyNoFix": false,
     "streetSmbMisSale": false,
-    "claimsCustomerTargetingWithoutEvidence": false
+    "claimsCustomerTargetingWithoutEvidence": false,
+    "evidence": {"uniqueValidFinding":"fixture://demo/finding","rootCauseAnalysis":"fixture://demo/rca","responsibleDisclosure":"fixture://demo/disclosure","episodicHeroTicket":"fixture://demo/episodic"}
   },
   {
     "id": "failed-mcp-meter",
-    "label": "Metered GRC MCP cosplay ($200/50 calls)",
+    "label": "Usage-priced GRC interface without measured outcome",
     "uniqueValidFinding": false,
     "rootCauseAnalysis": false,
     "responsibleDisclosure": false,
@@ -69,7 +71,8 @@
     "meteredApiCosplay": true,
     "informantOnlyNoFix": true,
     "streetSmbMisSale": false,
-    "claimsCustomerTargetingWithoutEvidence": false
+    "claimsCustomerTargetingWithoutEvidence": false,
+    "evidence": {"meteredApiCosplay":"fixture://demo/pricing","informantOnlyNoFix":"fixture://demo/no-fix"}
   },
   {
     "id": "fde-l3-gate-prove",
@@ -93,11 +96,12 @@
     "meteredApiCosplay": false,
     "informantOnlyNoFix": false,
     "streetSmbMisSale": false,
-    "claimsCustomerTargetingWithoutEvidence": false
+    "claimsCustomerTargetingWithoutEvidence": false,
+    "evidence": {"liveCustomerEnvironment":"fixture://demo/live","gateOrPromoteDiscipline":"fixture://demo/gate","actionLedgerOrReceipts":"fixture://demo/ledger","killSwitchNamedOwner":"fixture://demo/owner","remediationRetestLoop":"fixture://demo/retest","reusableLeaveBehinds":"fixture://demo/assets","rootCauseAnalysis":"fixture://demo/rca","responsibleDisclosure":"fixture://demo/disclosure","productizesWeaknessClass":"fixture://demo/product"}
   },
   {
     "id": "fde-l4-si-attach",
-    "label": "FDE L4 SI attach + walk-away",
+    "label": "FDE L4 partner adoption and concentration resilience",
     "uniqueValidFinding": true,
     "rootCauseAnalysis": true,
     "responsibleDisclosure": true,
@@ -117,6 +121,7 @@
     "meteredApiCosplay": false,
     "informantOnlyNoFix": false,
     "streetSmbMisSale": false,
-    "claimsCustomerTargetingWithoutEvidence": false
+    "claimsCustomerTargetingWithoutEvidence": false,
+    "evidence": {"uniqueValidFinding":"fixture://demo/finding","rootCauseAnalysis":"fixture://demo/rca","responsibleDisclosure":"fixture://demo/disclosure","chainedOrHighImpact":"fixture://demo/impact","productizesWeaknessClass":"fixture://demo/product","liveCustomerEnvironment":"fixture://demo/live","gateOrPromoteDiscipline":"fixture://demo/gate","actionLedgerOrReceipts":"fixture://demo/ledger","killSwitchNamedOwner":"fixture://demo/owner","remediationRetestLoop":"fixture://demo/retest","reusableLeaveBehinds":"fixture://demo/assets","siOrPartnerAttachPath":"fixture://demo/partner","walkAwayRatePower":"fixture://demo/concentration"}
   }
 ]

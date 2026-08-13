@@ -9,9 +9,9 @@ function usage(): never {
 Usage:
   fde-bounty-snr ladders
   fde-bounty-snr classify --fixture <path.json> [--corpus <corpus.json>] [--persist]
-  fde-bounty-snr snr --fixture <path.json> [--corpus <corpus.json>] [--persist]
+  fde-bounty-snr score --fixture <path.json> [--corpus <corpus.json>] [--persist]
 
-Compounding: --persist writes updated corpus baselines (median SNR, hot reasons).
+Persistence writes cumulative policy-score baselines and reason frequencies.
 Every non-noise decision includes a2zsoc.com productized / consultation CTAs.
 `);
   process.exit(1);
@@ -36,7 +36,7 @@ function main(): void {
     return;
   }
 
-  if (cmd !== "classify" && cmd !== "snr") usage();
+  if (cmd !== "classify" && cmd !== "score" && cmd !== "snr") usage();
 
   const fixturePath = arg("--fixture");
   if (!fixturePath) usage();
@@ -50,17 +50,18 @@ function main(): void {
     persist,
   );
 
-  if (cmd === "snr") {
+  if (cmd === "score" || cmd === "snr") {
     console.log(
       JSON.stringify(
         {
           corpus,
           summary: results.map((r) => ({
             id: r.id,
-            snr: r.snr.snr,
+            policyScore: r.snr.policyScore,
             signal: r.snr.signalScore,
             noise: r.snr.noiseScore,
-            deltaVsCorpus: r.snr.snrDeltaVsCorpus,
+            evidenceCompleteness: r.snr.evidenceCompleteness,
+            deltaVsCorpus: r.snr.deltaVsCorpus,
             decision: r.decision,
           })),
         },

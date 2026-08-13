@@ -1,8 +1,6 @@
 import type { CorpusStats, SignalInput, SnrBreakdown } from "./types.js";
 
-const EPS = 1e-6;
-
-/** Noise weights — evolve via corpus hotReasons over time. */
+/** Versioned policy weights. They are transparent hypotheses, not trained coefficients. */
 const NOISE_WEIGHTS: Array<{ key: keyof SignalInput; w: number; label: string }> = [
   { key: "unauthorizedOrUnsafeDemo", w: 0.25, label: "unsafe_demo" },
   { key: "ungatedAgentDemo", w: 0.22, label: "ungated_agent" },
@@ -59,16 +57,20 @@ export function scoreSnr(s: SignalInput, corpus?: CorpusStats | null): SnrBreakd
   noise = Math.min(1, noise);
   signal = Math.min(1, signal);
 
-  // Cap SNR so zero-noise rows stay comparable (avoid 1e6 fireworks).
-  const snr = Math.min(20, signal / Math.max(noise, EPS));
-  const median = corpus?.medianSnr ?? 1;
-  const snrDeltaVsCorpus = snr - median;
+  const asserted = [...SIGNAL_WEIGHTS, ...NOISE_WEIGHTS]
+    .filter((item) => bool(s[item.key]))
+    .map((item) => String(item.key));
+  const evidenced = asserted.filter((key) => Boolean(s.evidence?.[key]?.trim())).length;
+  const evidenceCompleteness = asserted.length === 0 ? 0 : evidenced / asserted.length;
+  const policyScore = Math.max(0, Math.min(1, (signal - noise + 1) / 2)) * evidenceCompleteness;
+  const median = corpus?.medianPolicyScore ?? 0.5;
 
   return {
     signalScore: round4(signal),
     noiseScore: round4(noise),
-    snr: round4(snr),
-    snrDeltaVsCorpus: round4(snrDeltaVsCorpus),
+    policyScore: round4(policyScore),
+    deltaVsCorpus: round4(policyScore - median),
+    evidenceCompleteness: round4(evidenceCompleteness),
     components,
   };
 }
@@ -83,10 +85,12 @@ export function emptyCorpus(): CorpusStats {
     version: 1,
     updatedAt: new Date().toISOString(),
     sampleCount: 0,
-    medianSnr: 1,
+    medianPolicyScore: 0.5,
     meanSignal: 0,
     meanNoise: 0,
     decisionCounts: {},
     hotReasons: [],
+    scoreHistogram: [],
+    reasonCounts: {},
   };
 }

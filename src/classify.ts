@@ -42,7 +42,7 @@ export function classifyFdeLevel(s: SignalInput): { level: FdeLevel; reasons: st
   const reasons: string[] = [];
 
   if (s.ungatedAgentDemo || s.meteredApiCosplay) {
-    reasons.push("ungated agent demo or metered API cosplay → FDE L0");
+    reasons.push("ungated demonstration or usage-priced interface without measured outcome → FDE L0");
     return { level: 0, reasons };
   }
   if (s.claimsCustomerTargetingWithoutEvidence) {
@@ -72,7 +72,7 @@ export function classifyFdeLevel(s: SignalInput): { level: FdeLevel; reasons: st
 
   if (level >= 3 && s.siOrPartnerAttachPath && s.walkAwayRatePower) {
     level = 4;
-    reasons.push("SI attach + walk-away rate power → FDE L4");
+    reasons.push("partner adoption + customer-concentration resilience → FDE L4");
   }
 
   reasons.push(FDE_LADDER[level]);
@@ -96,7 +96,7 @@ export function classifySignal(s: SignalInput): LevelResult {
     reasons.push("informant-only (no fix path) caps FDE compounding");
   }
   if (s.streetSmbMisSale) {
-    reasons.push("street SMB mis-sale — vault positioning violated");
+    reasons.push("ICP-solution mismatch detected");
   }
 
   return {

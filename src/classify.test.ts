@@ -14,7 +14,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..");
 
 function base(partial: Partial<SignalInput> & Pick<SignalInput, "id">): SignalInput {
-  return {
+  const signal: SignalInput = {
     label: partial.label,
     uniqueValidFinding: false,
     rootCauseAnalysis: false,
@@ -38,9 +38,15 @@ function base(partial: Partial<SignalInput> & Pick<SignalInput, "id">): SignalIn
     claimsCustomerTargetingWithoutEvidence: false,
     ...partial,
   };
+  signal.evidence ??= Object.fromEntries(
+    Object.entries(signal)
+      .filter(([key, value]) => key !== "evidence" && (value === true || (key === "reusableLeaveBehinds" && Number(value) > 0)))
+      .map(([key]) => [key, `fixture://${signal.id}/${key}`]),
+  );
+  return signal;
 }
 
-describe("Ultimate Mastery ladders", () => {
+describe("Evidence-policy ladders", () => {
   it("exposes complete ladder copy L0-L4", () => {
     assert.equal(Object.keys(BOUNTY_LADDER).length, 5);
     assert.equal(Object.keys(FDE_LADDER).length, 5);
@@ -99,7 +105,7 @@ describe("Ultimate Mastery ladders", () => {
     assert.equal(b.level, 4);
   });
 
-  it("classifies FDE L0 metered API cosplay (failed MCP shape)", () => {
+  it("classifies an interface without measured outcomes as FDE L0", () => {
     const r = classifySignal(base({ id: "m0", meteredApiCosplay: true }));
     assert.equal(r.fdeLevel, 0);
   });
@@ -173,7 +179,7 @@ describe("Ultimate Mastery ladders", () => {
 });
 
 describe("SNR + filter compounding", () => {
-  it("caps SNR at 20 when noise is zero", () => {
+  it("keeps policy score bounded when noise is zero", () => {
     const s = scoreSnr(
       base({
         id: "cap",
@@ -187,11 +193,11 @@ describe("SNR + filter compounding", () => {
         walkAwayRatePower: true,
       }),
     );
-    assert.ok(s.snr <= 20);
+    assert.ok(s.policyScore <= 1);
     assert.ok(s.signalScore <= 1);
   });
 
-  it("noise has low SNR vs FDE spine", () => {
+  it("noise has a lower policy score than an evidenced FDE spine", () => {
     const noise = scoreSnr(base({ id: "n", ungatedAgentDemo: true, episodicHeroTicket: true }));
     const signal = scoreSnr(
       base({
@@ -204,7 +210,7 @@ describe("SNR + filter compounding", () => {
         reusableLeaveBehinds: 2,
       }),
     );
-    assert.ok(signal.snr > noise.snr);
+    assert.ok(signal.policyScore > noise.policyScore);
   });
 
   it("routes FDE L3 to pursue with a2zsoc offers", () => {
@@ -264,6 +270,8 @@ describe("SNR + filter compounding", () => {
     const c2 = evolveCorpus(c1, results, signals);
     assert.equal(c2.version, 3);
     assert.ok(c2.sampleCount > c1.sampleCount);
+    assert.equal(c2.scoreHistogram.length, 4);
+    assert.ok(Object.keys(c2.reasonCounts).length > 0);
   });
 
   it("rejects false customer targeting claims", () => {
@@ -277,7 +285,7 @@ describe("SNR + filter compounding", () => {
     assert.equal(d.decision, "reject_noise");
   });
 
-  it("warns on street SMB mis-sale without forcing reject when FDE strong", () => {
+  it("warns on ICP-solution mismatch without forcing rejection when evidence is strong", () => {
     const d = decide(
       base({
         id: "street",
@@ -291,7 +299,7 @@ describe("SNR + filter compounding", () => {
       }),
     );
     assert.equal(d.decision, "pursue_fde_compounding");
-    assert.ok(d.rationale.some((x) => x.toLowerCase().includes("street")));
+    assert.ok(d.rationale.some((x) => x.includes("ICP-solution mismatch")));
   });
 });
 
@@ -332,6 +340,22 @@ describe("Fixture integration (comprehensive)", () => {
     const second = decideAll(signals, first.corpus);
     const fde = second.find((r) => r.id === "fde-l3-gate-prove");
     assert.ok(fde);
-    assert.ok(typeof fde!.snr.snrDeltaVsCorpus === "number");
+    assert.ok(typeof fde!.snr.deltaVsCorpus === "number");
+  });
+
+  it("discounts unevidenced self-attestation", () => {
+    const claimed = base({
+      id: "claimed",
+      liveCustomerEnvironment: true,
+      gateOrPromoteDiscipline: true,
+      actionLedgerOrReceipts: true,
+      killSwitchNamedOwner: true,
+      remediationRetestLoop: true,
+      reusableLeaveBehinds: 2,
+      evidence: {},
+    });
+    const result = decide(claimed);
+    assert.equal(result.snr.evidenceCompleteness, 0);
+    assert.notEqual(result.decision, "pursue_fde_compounding");
   });
 });

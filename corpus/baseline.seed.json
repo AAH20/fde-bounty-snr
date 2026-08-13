@@ -2,9 +2,11 @@
   "version": 1,
   "updatedAt": "2026-08-13T00:00:00.000Z",
   "sampleCount": 0,
-  "medianSnr": 1,
+  "medianPolicyScore": 0.5,
   "meanSignal": 0,
   "meanNoise": 0,
   "decisionCounts": {},
-  "hotReasons": []
+  "hotReasons": [],
+  "scoreHistogram": [],
+  "reasonCounts": {}
 }

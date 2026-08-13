@@ -15,7 +15,7 @@ function offersFor(decision: FilterDecision, fdeLevel: number, bountyLevel: numb
   if (decision === "reject_noise") {
     out.push({
       sku: "Doctrine / positioning read",
-      why: "Noise rejected — study Gate/Prove before buying tools or hunting hero tickets",
+      why: "Policy evidence is insufficient — establish controlled delivery evidence before scaling",
       url: A2Z.agenticTrustOps,
     });
     return out;
@@ -66,12 +66,12 @@ function offersFor(decision: FilterDecision, fdeLevel: number, bountyLevel: numb
   // productize_attach
   out.push({
     sku: "Productized services + partner attach",
-    why: "FDE L4 — package for SI/CyShield-class hydraulic rights",
+    why: "FDE L4 — package verified delivery evidence for partner adoption",
     url: A2Z.productized,
   });
   out.push({
     sku: "Consultation — retainer / FDE scope",
-    why: "Define walk-away terms and Continuous Trust seats",
+    why: "Define customer-concentration limits and continuous assurance terms",
     url: A2Z.consultation,
   });
   return out;
@@ -92,10 +92,10 @@ export function decide(s: SignalInput, corpus?: CorpusStats | null): FilterResul
   ) {
     decision = "reject_noise";
     rationale.push("Noise dominates — reject before it burns credibility");
-  } else if (level.fdeLevel >= 4 && snr.snr >= 1.5) {
+  } else if (level.fdeLevel >= 4 && snr.policyScore >= 0.7) {
     decision = "productize_attach";
     rationale.push("FDE L4 + strong SNR — productize and attach via partners");
-  } else if (level.fdeLevel >= 2 && snr.signalScore >= 0.35) {
+  } else if (level.fdeLevel >= 2 && snr.signalScore >= 0.35 && snr.evidenceCompleteness >= 0.5) {
     decision = "pursue_fde_compounding";
     rationale.push("Gate/Prove spine present — pursue compounding FDE path");
   } else if (level.bountyLevel >= 2 && level.fdeLevel <= 1 && !s.informantOnlyNoFix) {
@@ -104,7 +104,7 @@ export function decide(s: SignalInput, corpus?: CorpusStats | null): FilterResul
   } else if (level.bountyLevel >= 1 && level.fdeLevel <= 1) {
     decision = "park_bounty_episodic";
     rationale.push("Valid bounty track — park as episodic until leave-behinds exist");
-  } else if (snr.snrDeltaVsCorpus < -0.5 && corpus && corpus.sampleCount >= 3) {
+  } else if (snr.deltaVsCorpus < -0.25 && corpus && corpus.sampleCount >= 3) {
     decision = "reject_noise";
     rationale.push("SNR far below evolving corpus baseline — filter tightened");
   } else {
@@ -113,11 +113,11 @@ export function decide(s: SignalInput, corpus?: CorpusStats | null): FilterResul
   }
 
   if (s.streetSmbMisSale && decision !== "reject_noise") {
-    rationale.push("Warning: street mis-sale detected — vault positioning at risk");
+    rationale.push("Warning: ICP-solution mismatch detected");
   }
 
-  if (snr.snrDeltaVsCorpus > 0.25 && corpus && corpus.sampleCount >= 3) {
-    rationale.push("SNR beats corpus median — compounding filter validates uplift");
+  if (snr.deltaVsCorpus > 0.25 && corpus && corpus.sampleCount >= 3) {
+    rationale.push("Evidence-weighted policy score exceeds the cumulative corpus median");
   }
 
   return {

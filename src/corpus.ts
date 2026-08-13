@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { decideAll } from "./filter.js";
-import { emptyCorpus, scoreSnr } from "./snr.js";
+import { emptyCorpus } from "./snr.js";
 import type { CorpusStats, FilterDecision, FilterResult, SignalInput } from "./types.js";
 
 function median(nums: number[]): number {
@@ -17,7 +17,7 @@ export function evolveCorpus(
   signals: SignalInput[],
 ): CorpusStats {
   const base = prev ?? emptyCorpus();
-  const snrs = results.map((r) => r.snr.snr);
+  const scores = results.map((r) => r.snr.policyScore);
   const signalsScores = results.map((r) => r.snr.signalScore);
   const noises = results.map((r) => r.snr.noiseScore);
 
@@ -28,21 +28,18 @@ export function evolveCorpus(
     decisionCounts[r.decision] = (decisionCounts[r.decision] ?? 0) + 1;
   }
 
-  const reasonFreq = new Map<string, number>();
+  const reasonCounts = { ...base.reasonCounts };
   for (const r of results) {
     for (const reason of r.level.reasons) {
-      reasonFreq.set(reason, (reasonFreq.get(reason) ?? 0) + 1);
+      reasonCounts[reason] = (reasonCounts[reason] ?? 0) + 1;
     }
   }
-  const hotReasons = [...reasonFreq.entries()]
+  const hotReasons = Object.entries(reasonCounts)
     .sort((a, b) => b[1] - a[1])
     .slice(0, 8)
     .map(([k]) => k);
 
-  // Recompute SNR with previous median for delta education (side-effect free on scoring)
-  for (let i = 0; i < signals.length; i++) {
-    scoreSnr(signals[i]!, base);
-  }
+  const scoreHistogram = [...base.scoreHistogram, ...scores].slice(-1000);
 
   const n = base.sampleCount + results.length;
   const meanSignal =
@@ -60,11 +57,13 @@ export function evolveCorpus(
     version: base.version + 1,
     updatedAt: new Date().toISOString(),
     sampleCount: n,
-    medianSnr: median(snrs.length ? snrs : [base.medianSnr]),
+    medianPolicyScore: median(scoreHistogram.length ? scoreHistogram : [base.medianPolicyScore]),
     meanSignal: Math.round(meanSignal * 10000) / 10000,
     meanNoise: Math.round(meanNoise * 10000) / 10000,
     decisionCounts,
     hotReasons,
+    scoreHistogram,
+    reasonCounts,
   };
 }
 
