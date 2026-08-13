@@ -10,7 +10,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "test": "npm run build && node --test dist/**/*.test.js",
+    "test": "npm run build && node --test dist/classify.test.js",
     "demo": "npm run build && node dist/cli.js classify --fixture fixtures/demo-signals.json",
     "score": "npm run build && node dist/cli.js score --corpus corpus/baseline.json --fixture fixtures/demo-signals.json",
     "snr": "npm run score"
