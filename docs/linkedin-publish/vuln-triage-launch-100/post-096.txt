@@ -1,0 +1,9 @@
+Because KEV and EPSS move, the decision is never final. The a2zsoc retainer re-triages your environment as the threat landscape shifts, updates the treatment priorities, and verifies that closed exposures stay closed.
+
+The free tool is a snapshot. The retainer keeps the picture current. Recurring, because the threat is.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#ContinuousMonitoring #ManagedSecurity #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

@@ -1,0 +1,10 @@
+Because gut feeling does not scale past a few hundred findings, and it is not defensible to an auditor or a board.
+
+Triage replaces the gut with a documented, reproducible function over authoritative signals. When someone asks why you fixed these twelve and deferred those four hundred, you have an evidence-backed answer, not a shrug.
+
+The methodology is the audit trail.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Audit #GRC #Compliance #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

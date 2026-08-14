@@ -1,0 +1,10 @@
+10 findings ingested. 3 require a decision (2 FIX NOW, 1 this cycle). 7 deprioritized as noise, 70 percent of the list.
+
+Two of the seven dropped are CVSS 9.8 Critical (zlib, glibc), demoted because they are not being exploited. The two FIX NOW items are Log4Shell and Citrix Bleed, both in CISA KEV, both internet-facing, both on a critical asset.
+
+That is the difference between a scanner and a decision, on one screen.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#VulnerabilityManagement #CVE #DevSecOps #CyberSecurity #OpenSource

@@ -1,0 +1,8 @@
+The first remediation of a vulnerability family is expensive. The tenth is a reused playbook. Triage captures the treatment templates, detection rules, and verification tests from each engagement into reusable components.
+
+Delivery leverage rises: the second deployment costs a fraction of the first. That declining marginal cost is the difference between a body shop and a scalable business.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Scaling #Consulting #Productization #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

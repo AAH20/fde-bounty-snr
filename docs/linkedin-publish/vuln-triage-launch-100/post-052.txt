@@ -1,0 +1,8 @@
+Track how many CISA KEV vulnerabilities are present in your environment, and how fast you close them. This is the metric that correlates most directly with real breach risk.
+
+Triage surfaces your KEV exposure instantly and ranks it first. Closing KEV findings fast is the single most defensible security KPI you can report to a board or an auditor.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#KEV #SecurityMetrics #CISO #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

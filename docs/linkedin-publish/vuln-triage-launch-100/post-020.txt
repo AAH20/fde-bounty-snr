@@ -1,0 +1,10 @@
+Confirmed exploitation, forward probability, reachability, business criticality, with severity in its proper place last. That is how you turn a scan into a decision that predicts real risk instead of theoretical severity.
+
+Every input is public and authoritative. The value is assembling them into a verdict, reproducibly, for free.
+
+Next: exactly who this removes the most pain for.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

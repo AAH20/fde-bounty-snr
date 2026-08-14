@@ -1,0 +1,13 @@
+Triage is careful about what it claims. A vulnerability may be:
+
+Technically capable of enabling a technique.
+Observed exploited by credible sources.
+Relevant to your sector.
+Confirmed in your environment.
+
+Only the last justifies saying you are specifically targeted, and that needs authorized evidence, not a public feed. The tool never tells a customer an APT is after them because a CVE exists. Honesty is a feature.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#ThreatIntel #CyberRisk #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

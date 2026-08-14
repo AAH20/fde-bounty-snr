@@ -1,0 +1,8 @@
+Every day an exploited, reachable vulnerability stays open is a day of exposure with a real cost, and breach studies attach a number to it.
+
+Triage compresses the time an exploited exposure remains unaddressed by putting it at the top on day one. Track the reduction in open-KEV-days and you have translated a technical improvement into a risk number.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DwellTime #CyberRisk #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

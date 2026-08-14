@@ -1,0 +1,10 @@
+FIRST's Exploit Prediction Scoring System estimates the probability a vulnerability will be exploited in the next 30 days. It is data-driven, updated daily, and covers hundreds of thousands of CVEs.
+
+FIRST is explicit that EPSS has no environmental context and is not a complete risk score. That is exactly why Triage uses it as one input, not the whole decision.
+
+KEV tells you what is exploited. EPSS tells you what is likely to be. Together they are the forward-looking half of the decision.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#EPSS #RiskManagement #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

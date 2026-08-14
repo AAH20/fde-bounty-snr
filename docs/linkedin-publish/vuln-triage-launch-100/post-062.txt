@@ -1,0 +1,8 @@
+CVSS-only means patching the theoretically severe and leaving the actually exploited open. It inverts your risk and it does not scale past a few hundred Criticals.
+
+Triage prioritizes by confirmed exploitation and probability, with severity in its proper place last. Same findings, opposite order, and the Triage order predicts real breaches. FIRST and CISA agree: do not use CVSS alone.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CVSS #RiskManagement #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

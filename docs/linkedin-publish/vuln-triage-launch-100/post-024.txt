@@ -1,0 +1,10 @@
+You own the fleet, and security keeps handing you vulnerability lists with no priority, expecting you to patch everything during windows you do not have.
+
+Triage gives you a defensible order: these are exploited and reachable, do them this window; these are noise, document and move on. It hands SRE a decision, not a backlog.
+
+Fewer emergency patches, more sleep, and an audit trail for both.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SRE #PlatformEngineering #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

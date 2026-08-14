@@ -1,0 +1,10 @@
+The single best predictor that a vulnerability will be used against you is that it is already being used against someone.
+
+That is CISA's Known Exploited Vulnerabilities catalog: over 1,600 CVEs confirmed exploited in the wild. CISA explicitly recommends it as a prioritization input.
+
+Triage checks every finding against KEV first. If it is exploited and reachable and on a critical asset, it is FIX NOW. Nothing else in the stack is a stronger signal.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#KEV #ThreatIntel #CISA #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

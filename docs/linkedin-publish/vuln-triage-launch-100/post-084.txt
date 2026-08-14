@@ -1,0 +1,8 @@
+Developers find tools by running them, not by reading ads. An open, one-command CLI spreads through GitHub, CI pipelines, and word of mouth, in channels no marketing budget can buy.
+
+The tool is the top of the funnel. Every team that adopts it is a candidate for the paid remediation and verification layer. Distribution and lead generation, in one free artifact.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#OpenSource #GoToMarket #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE

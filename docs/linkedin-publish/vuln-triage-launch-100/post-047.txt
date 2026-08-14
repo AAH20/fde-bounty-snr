@@ -1,0 +1,9 @@
+Doing a security assessment for a client? Run their scan through Triage and hand them a prioritized treatment register plus a board memo in minutes, instead of a raw scanner dump.
+
+The deliverable looks like senior consulting because it is a decision, not a list. Free tool, professional output, and a clear path to the paid remediation that follows.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Consulting #SecurityAssessment #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

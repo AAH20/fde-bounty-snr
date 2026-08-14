@@ -1,0 +1,12 @@
+Triage sorts every finding into three tiers a board understands without a security briefing:
+
+FIX NOW: actively exploited, reachable, on a critical asset. Authorize a window in days.
+FIX THIS CYCLE: probable, schedule it.
+MONITOR: low real-world risk, document and accept.
+
+No CVSS numbers, no jargon. A decision, with a deadline and a reason. That is what leadership can act on.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#BoardGovernance #CISO #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

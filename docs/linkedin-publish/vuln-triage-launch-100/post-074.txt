@@ -1,0 +1,9 @@
+Boards approve maintenance windows when they understand the cost of not approving them. Triage frames each FIX NOW item with its expected-loss exposure and a deadline, so the cost of delay is explicit.
+
+Delay is a decision with a price. Making that price visible is how security work gets authorized instead of deferred.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CyberRisk #CISO #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

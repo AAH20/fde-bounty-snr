@@ -1,0 +1,9 @@
+A CFO does not fund CVEs. They fund reduced expected loss per dollar spent. Triage frames vulnerability work in exactly those terms: here is the exposure in currency, here is what closing it costs, here is the return.
+
+Security that speaks capital efficiency gets funded. Triage builds that language into the output.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CFO #CyberRisk #FinOps #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

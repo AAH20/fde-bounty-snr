@@ -1,0 +1,11 @@
+Enterprise customers demand SOC 2 or ISO 27001, and your small security team is drowning in scanner output that the audit will ask you to have handled.
+
+Triage turns that output into a prioritized, evidence-backed treatment register: what is exploited, what is reachable, what you decided, and why. Exactly the artifact an auditor and an enterprise buyer want to see.
+
+Prioritize free. Close the gaps with a2zsoc.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SOC2 #ISO27001 #SaaS #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

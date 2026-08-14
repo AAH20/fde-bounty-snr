@@ -1,0 +1,9 @@
+The first paid step: confirm which of the exploited findings are genuinely reachable in your environment, assess the compensating controls, and produce an executive exposure memo you can act on.
+
+Fixed scope, advisory only, no production access required. It takes the free tool's decision and grounds it in your real network. That is where the engagement starts.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SecurityAssessment #Consulting #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

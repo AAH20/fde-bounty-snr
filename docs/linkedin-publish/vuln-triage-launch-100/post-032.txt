@@ -1,0 +1,10 @@
+Nobody patches everything. There are not enough maintenance windows in the year. So teams patch what is loudest, which is usually what has the highest CVSS, which is usually not what is being exploited.
+
+Triage replaces patch-everything and patch-by-severity with patch-what-is-exploited-and-reachable-first. A finite, ranked, defensible list instead of an infinite backlog.
+
+You were never going to patch it all. Patch the right ones.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#PatchManagement #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

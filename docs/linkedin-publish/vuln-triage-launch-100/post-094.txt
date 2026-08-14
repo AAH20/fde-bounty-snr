@@ -1,0 +1,8 @@
+For the exposures that matter most, prove it safely: run the ATT&CK techniques against a replica or under strict authorization, measure whether detection fires, and feed the result into a calibrated risk number.
+
+Triage narrates the attack path. a2zsoc, under written scope, demonstrates it and measures your real detection coverage. Narrative in the tool, evidence in the engagement.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#ThreatEmulation #PurpleTeam #MITREATTACK #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

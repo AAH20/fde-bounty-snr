@@ -1,0 +1,13 @@
+Triage combines four things, in this order of weight:
+
+Is it actually exploited? (CISA KEV, strongest)
+How likely in 30 days? (FIRST EPSS)
+Is it reachable? (your asset context)
+Does the asset matter? (business criticality)
+
+CVSS is present but last, because severity in the abstract is the weakest predictor of real-world risk. Everything above it is what determines whether you get breached.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#RiskManagement #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

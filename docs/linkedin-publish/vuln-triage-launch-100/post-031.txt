@@ -1,0 +1,10 @@
+Teams do not burn out because there are vulnerabilities. They burn out because every one is flagged Critical and none is ranked, so everything feels urgent and nothing gets done.
+
+Triage cuts the list to what is actually exploited and reachable. In the demo, 70 percent of findings are deprioritized as noise. That is 70 percent of the anxiety removed, with evidence behind the cut.
+
+Fatigue is a symptom of missing prioritization, not too much work.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#AlertFatigue #SOC #BurnOut #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

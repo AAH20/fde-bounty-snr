@@ -1,0 +1,8 @@
+The headline number: what fraction of scanner findings get correctly deprioritized. In the demo, 70 percent. That is 70 percent less work, anxiety, and window time spent on things that do not matter.
+
+Measure it on your own scan. The percentage you can safely defer, with evidence, is the first number that proves the tool paid for itself, and it cost nothing.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SecurityMetrics #KPIs #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

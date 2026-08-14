@@ -1,0 +1,11 @@
+If you manage vulnerability posture across many customers, you already know the problem: every scan produces hundreds of findings, and your engineers cannot triage them all for every client.
+
+Triage runs on each customer's scan output and returns a per-client decision list, prioritized by real exploitation. One analyst covers more clients, and every client gets a defensible treatment order instead of a raw dump.
+
+Free to run. The verification and remediation layer is where a2zsoc partners.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#MSP #ManagedServices #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

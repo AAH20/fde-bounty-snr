@@ -1,0 +1,10 @@
+A CVSS 9.8 that has never been exploited, with no public exploit, is lower real-world risk than a CVSS 7.5 that is in CISA KEV and being used against your sector right now.
+
+Prioritizing by severity inverts your own risk. You spend the maintenance window on the theoretically scary and leave the actually exploited open.
+
+Triage flips it back: exploitation first, severity last. The numbers that predict a breach, in the order that matters.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#RiskManagement #ThreatIntel #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

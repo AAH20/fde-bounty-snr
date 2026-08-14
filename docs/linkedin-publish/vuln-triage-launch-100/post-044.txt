@@ -1,0 +1,8 @@
+Available as a GitHub Action. Add a few lines to your workflow and every pipeline run triages its own scan: fail on exploited-and-reachable, warn on probable, log the rest.
+
+No more pipelines that either block on every CVE (developers revolt) or block on none (security revolts). A build gate that reflects real risk, so developers trust it and act on it.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CICD #GitHubActions #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

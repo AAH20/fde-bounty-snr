@@ -1,0 +1,12 @@
+trivy image -f json app:latest > scan.json && triage -i scan.json
+
+That is the entire workflow. Triage detects the format, enriches every finding with CISA KEV and FIRST EPSS, factors in your asset context, and prints the decision.
+
+No dependencies. No account. No cloud. Pure Python standard library, runs offline on a bundled feed sample or live with a single flag.
+
+The barrier to trying it is one command. That was deliberate.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DevSecOps #CLI #Automation #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

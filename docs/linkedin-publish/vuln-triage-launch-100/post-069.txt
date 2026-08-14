@@ -1,0 +1,8 @@
+The instinct when drowning in findings is to hire. But another analyst triaging by hand hits the same ceiling, just later.
+
+Triage raises the ceiling instead of the headcount: it automates the decision so your existing team covers more. Then, when you do hire, they work at the top of the decision, not the bottom of the list.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Scaling #Productivity #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

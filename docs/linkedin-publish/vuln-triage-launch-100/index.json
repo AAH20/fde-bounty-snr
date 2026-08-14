@@ -1,0 +1,2837 @@
+{
+  "campaign": "vuln-triage-launch-100",
+  "created": "2026-08-14",
+  "base": "https://a2zsoc.com",
+  "repo": "https://github.com/AAH20/vuln-triage",
+  "count": 100,
+  "status": "published",
+  "currentOfferPaths": [
+    "/productized-services",
+    "/consultation",
+    "/instant-audit",
+    "/pricing"
+  ],
+  "waitlistPath": "/start",
+  "posts": [
+    {
+      "id": "vuln-triage-launch-100-001",
+      "number": 1,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "3d9fc8a5a3694b10c26eea2ae0c01ee9a62a6c7fd3a01ff4df881df8eec4ca2f",
+      "file": "post-001.txt",
+      "title": "Launch: stop scanning, start deciding",
+      "hook": "Your scanner found 500 CVEs. Which 12 actually matter today?",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#AppSec",
+        "#CloudSecurity",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 805,
+      "publication": {
+        "urn": "urn:li:share:7493931403705913344",
+        "publishedAt": "2026-08-14T07:27:57.418941+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-002",
+      "number": 2,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "a08fcc216cdebf71cdc8a5580d8951bc08f8d523e2ba57b23532264e61276fc5",
+      "file": "post-002.txt",
+      "title": "CVSS is the noise, not the signal",
+      "hook": "Every organisation has hundreds of CVSS Critical findings. CVSS cannot tell you which to fix first, because it measures technical severity in the abstract, not real-world risk.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CVSS",
+        "#RiskManagement",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 787,
+      "publication": {
+        "urn": "urn:li:share:7493931510455058433",
+        "publishedAt": "2026-08-14T07:28:22.864874+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-003",
+      "number": 3,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "a3acfed7a62a5a37938089ec62af5f1590ecd0dcd07174fc5cb04d8bea3a2722",
+      "file": "post-003.txt",
+      "title": "The tool that decides, not just detects",
+      "hook": "Detection is crowded. Trivy, Grype, OpenVAS, Nuclei, Nessus all find vulnerabilities and produce lists. Not one of them decides what matters in your environment.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DevSecOps",
+        "#SecurityTools",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 677,
+      "publication": {
+        "urn": "urn:li:share:7493931519804309504",
+        "publishedAt": "2026-08-14T07:28:25.119032+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-004",
+      "number": 4,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "4274faca2aecda61c606f3ea949968b83641ce0633ebebe10e2ca6b0f398ecbd",
+      "file": "post-004.txt",
+      "title": "The 500-to-12 problem",
+      "hook": "A vulnerability scan is not the hard part. The hard part is the meeting afterward, where someone has to decide which findings justify a maintenance window and which are noise.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#VulnerabilityManagement",
+        "#SOC",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 702,
+      "publication": {
+        "urn": "urn:li:share:7493931528679456768",
+        "publishedAt": "2026-08-14T07:28:27.204299+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-005",
+      "number": 5,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "b2b4018676ccf99e4cabede9b0c370f1b5648f2f936f8fad3056922de5ab9fbb",
+      "file": "post-005.txt",
+      "title": "Why I open-sourced it",
+      "hook": "Because the prioritization layer should not be a paywall.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#OpenSource",
+        "#AppSec",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 752,
+      "publication": {
+        "urn": "urn:li:share:7493931536308740096",
+        "publishedAt": "2026-08-14T07:28:29.535950+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-006",
+      "number": 6,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "14ef0cd65adc68bee09331631b30cbcd7fc98cfadab9ff618af56677b74bf1a8",
+      "file": "post-006.txt",
+      "title": "One command, any scanner",
+      "hook": "trivy image -f json app:latest > scan.json && triage -i scan.json",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DevSecOps",
+        "#CLI",
+        "#Automation",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 669,
+      "publication": {
+        "urn": "urn:li:share:7493931546396041216",
+        "publishedAt": "2026-08-14T07:28:31.410827+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-007",
+      "number": 7,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "08224838ab005a69317ddb2c13f613094b50f201bae881886d3163ef1af8f4cf",
+      "file": "post-007.txt",
+      "title": "Severity is not risk",
+      "hook": "A CVSS 9.8 that has never been exploited, with no public exploit, is lower real-world risk than a CVSS 7.5 that is in CISA KEV and being used against your sector right now.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#RiskManagement",
+        "#ThreatIntel",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 691,
+      "publication": {
+        "urn": "urn:li:share:7493931553975083008",
+        "publishedAt": "2026-08-14T07:28:33.277479+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-008",
+      "number": 8,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "8e71f65c1fad904403973998793f0e4c45deb8829d50da3aad46895b13ba90e8",
+      "file": "post-008.txt",
+      "title": "Determinism is a feature",
+      "hook": "Run Triage twice on the same input and you get byte-identical output. Same scan, same decision, every time.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Engineering",
+        "#Reproducibility",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 700,
+      "publication": {
+        "urn": "urn:li:share:7493931561881395200",
+        "publishedAt": "2026-08-14T07:28:35.108247+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-009",
+      "number": 9,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "65f91d28c1e08ba0a721ff6360a3cd8e2cfa68308cf0e0d396ccd91621db1747",
+      "file": "post-009.txt",
+      "title": "The demo, in one screen",
+      "hook": "10 findings ingested. 3 require a decision (2 FIX NOW, 1 this cycle). 7 deprioritized as noise, 70 percent of the list.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#VulnerabilityManagement",
+        "#CVE",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#OpenSource"
+      ],
+      "chars": 643,
+      "publication": {
+        "urn": "urn:li:share:7493931569385086976",
+        "publishedAt": "2026-08-14T07:28:36.926529+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-010",
+      "number": 10,
+      "track": "Thesis: stop scanning, start deciding",
+      "status": "published",
+      "sha256": "948e90cfe69b6d78913e81a5170bbd184949e31ace1184d467b6ce744138ee7e",
+      "file": "post-010.txt",
+      "title": "Arc close: the thesis",
+      "hook": "Scanning is commodity. Deciding is the value. And deciding well means prioritizing by real-world exploitation, not CVSS severity, with a result a board can act on.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#OpenSource",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 611,
+      "publication": {
+        "urn": "urn:li:share:7493931578507616256",
+        "publishedAt": "2026-08-14T07:28:39.082502+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-011",
+      "number": 11,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "0e2a5ff2fc5df9063ddaa8fdcfb8c5f9a2776d84708fd5958613432a18c0db6a",
+      "file": "post-011.txt",
+      "title": "CISA KEV: the strongest signal you are ignoring",
+      "hook": "The single best predictor that a vulnerability will be used against you is that it is already being used against someone.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#KEV",
+        "#ThreatIntel",
+        "#CISA",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 699,
+      "publication": {
+        "urn": "urn:li:share:7493931589622693888",
+        "publishedAt": "2026-08-14T07:28:41.792409+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-012",
+      "number": 12,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "f1df8d594f36754fed26e273f1d75b1715c7afc2ce9d323086269d4310327f4c",
+      "file": "post-012.txt",
+      "title": "EPSS: probability, not severity",
+      "hook": "FIRST's Exploit Prediction Scoring System estimates the probability a vulnerability will be exploited in the next 30 days. It is data-driven, updated daily, and covers hundreds of thousands of CVEs.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#EPSS",
+        "#RiskManagement",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 738,
+      "publication": {
+        "urn": "urn:li:share:7493931598074060800",
+        "publishedAt": "2026-08-14T07:28:43.739973+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-013",
+      "number": 13,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "075bac0589f21495cb3a318dabc7e8c78b2393145a5c6471a610115420f6d597",
+      "file": "post-013.txt",
+      "title": "Reachability changes everything",
+      "hook": "The same CVE on an internet-facing web server and on an air-gapped batch box are not the same risk. Severity scores treat them identically. Attackers do not.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#NetworkSecurity",
+        "#AttackSurface",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 702,
+      "publication": {
+        "urn": "urn:li:share:7493931606127058944",
+        "publishedAt": "2026-08-14T07:28:45.695558+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-014",
+      "number": 14,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "dc9e5be4f765c4bba00a2ee1486aaca6f36f1cd6ceed0d029accb808edd5ff6a",
+      "file": "post-014.txt",
+      "title": "Business criticality is a security input",
+      "hook": "A vulnerability on your payments platform and the same one on a demo box do not deserve the same urgency. The technical severity is identical. The business consequence is not.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#GRC",
+        "#BusinessRisk",
+        "#CISO",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 667,
+      "publication": {
+        "urn": "urn:li:share:7493931613647560705",
+        "publishedAt": "2026-08-14T07:28:47.488576+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-015",
+      "number": 15,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "d4bb7e605005d466fa50d7ddb9d46dee6263bf00d5a77cce564b345ab959b28a",
+      "file": "post-015.txt",
+      "title": "The priority function, in plain terms",
+      "hook": "Triage combines four things, in this order of weight:",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#RiskManagement",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 630,
+      "publication": {
+        "urn": "urn:li:share:7493931622099095552",
+        "publishedAt": "2026-08-14T07:28:49.565130+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-016",
+      "number": 16,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "5954de9e960c660013ed2a91f1474ca34bfab51b000f679a93c2f7fafdaffd28",
+      "file": "post-016.txt",
+      "title": "ATT&CK as a narrative, never an attack",
+      "hook": "For each top exposure, Triage shows the plausible behavioral chain a vulnerability enables, mapped to MITRE ATT&CK: T1190 Exploit Public-Facing Application, through to T1486 Data Encrypted for Impact.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#MITREATTACK",
+        "#ThreatEmulation",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 733,
+      "publication": {
+        "urn": "urn:li:share:7493931631729164288",
+        "publishedAt": "2026-08-14T07:28:51.811541+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-017",
+      "number": 17,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "9832d63cdfd5eb1d31dcb2f592e5d9c5ddb73493348a40708c2a136ad52b08b1",
+      "file": "post-017.txt",
+      "title": "Four evidence levels, never conflated",
+      "hook": "Triage is careful about what it claims. A vulnerability may be:",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ThreatIntel",
+        "#CyberRisk",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 666,
+      "publication": {
+        "urn": "urn:li:share:7493931639618691072",
+        "publishedAt": "2026-08-14T07:28:53.690148+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-018",
+      "number": 18,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "e18e47ef96bfb13d07f86008ebe0fa731b35ac063e2adbd2359918fcf9a3fee5",
+      "file": "post-018.txt",
+      "title": "Live feeds, verified",
+      "hook": "Triage ships with a bundled KEV and EPSS sample so it runs instantly offline. Add one flag and it pulls the live feeds: over 1,600 confirmed-exploited CVEs from CISA, hundreds of thousands of EPSS scores from FIRST.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#KEV",
+        "#EPSS",
+        "#ThreatIntel",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 627,
+      "publication": {
+        "urn": "urn:li:share:7493931650553335809",
+        "publishedAt": "2026-08-14T07:28:56.222403+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-019",
+      "number": 19,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "802614149f34f79f31f72cae6bd2e81ee9aa828c97a2b3fdd1fb9d39761bff44",
+      "file": "post-019.txt",
+      "title": "Why not just use CVSS plus a gut feeling",
+      "hook": "Because gut feeling does not scale past a few hundred findings, and it is not defensible to an auditor or a board.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Audit",
+        "#GRC",
+        "#Compliance",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 610,
+      "publication": {
+        "urn": "urn:li:share:7493931662687248384",
+        "publishedAt": "2026-08-14T07:28:59.152724+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-020",
+      "number": 20,
+      "track": "Methodology: KEV, EPSS, ATT&CK",
+      "status": "published",
+      "sha256": "55fd786fb2b2cb966ed160d908c28a67e663b0d3826f08d2dfe5402b49a7f74c",
+      "file": "post-020.txt",
+      "title": "Arc close: the methodology",
+      "hook": "Confirmed exploitation, forward probability, reachability, business criticality, with severity in its proper place last. That is how you turn a scan into a decision that predicts real risk instead of theoretical severity.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 605,
+      "publication": {
+        "urn": "urn:li:share:7493931671478530049",
+        "publishedAt": "2026-08-14T07:29:01.317711+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-021",
+      "number": 21,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "9e647662dbc00c92a6e3a946c4ae837cda8a1023eac1a16ffef28d8e6f9c1551",
+      "file": "post-021.txt",
+      "title": "For MSPs managing hundreds of Linux servers",
+      "hook": "If you manage vulnerability posture across many customers, you already know the problem: every scan produces hundreds of findings, and your engineers cannot triage them all for every client.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#MSP",
+        "#ManagedServices",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 844,
+      "publication": {
+        "urn": "urn:li:share:7493931679477268480",
+        "publishedAt": "2026-08-14T07:29:03.222735+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-022",
+      "number": 22,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "673680396d10f679ea40e51badd209164b2aeb96ead19698009ed6b35ed488a1",
+      "file": "post-022.txt",
+      "title": "For B2B SaaS with a SOC 2 review coming",
+      "hook": "Enterprise customers demand SOC 2 or ISO 27001, and your small security team is drowning in scanner output that the audit will ask you to have handled.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SOC2",
+        "#ISO27001",
+        "#SaaS",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 763,
+      "publication": {
+        "urn": "urn:li:share:7493931687563845633",
+        "publishedAt": "2026-08-14T07:29:05.086815+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-023",
+      "number": 23,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "daaf75273296b09b50717be8b6b631b156975e24cd067326c51528bb7846191a",
+      "file": "post-023.txt",
+      "title": "For DevSecOps teams shifting left",
+      "hook": "You already run Trivy or Grype in the pipeline. It flags fifty things per build and developers ignore all of them, because they cannot tell which one matters.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DevSecOps",
+        "#CICD",
+        "#ShiftLeft",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 689,
+      "publication": {
+        "urn": "urn:li:share:7493931695566553088",
+        "publishedAt": "2026-08-14T07:29:06.972673+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-024",
+      "number": 24,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "f2e54d9fa609ce2452d96430e83200b6b3d67a2bfb8dab3d4bb5be1d4f9cd6cf",
+      "file": "post-024.txt",
+      "title": "For platform and SRE teams",
+      "hook": "You own the fleet, and security keeps handing you vulnerability lists with no priority, expecting you to patch everything during windows you do not have.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SRE",
+        "#PlatformEngineering",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 633,
+      "publication": {
+        "urn": "urn:li:share:7493931704198324224",
+        "publishedAt": "2026-08-14T07:29:09.062711+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-025",
+      "number": 25,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "ebc6ae7ddf83a2bf87a2bc437f543ac6c5a8266dd3b84ddbec54052c26fc879a",
+      "file": "post-025.txt",
+      "title": "For container and Kubernetes shops",
+      "hook": "Every image scan lights up with base-image CVEs, most of which are never exploited. Trivy and Grype find them; nobody can triage them all.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Kubernetes",
+        "#Containers",
+        "#CloudNative",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 665,
+      "publication": {
+        "urn": "urn:li:share:7493931712314253313",
+        "publishedAt": "2026-08-14T07:29:11.033694+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-026",
+      "number": 26,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "b911eac544a292b0d6f2caf7057975eccd0888613cff335691d4c58842efd67f",
+      "file": "post-026.txt",
+      "title": "For the CISO who needs a board number",
+      "hook": "Your board does not want a CVE count. They want to know exposure in business terms and whether it is improving.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CISO",
+        "#BoardGovernance",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 736,
+      "publication": {
+        "urn": "urn:li:share:7493931721411727361",
+        "publishedAt": "2026-08-14T07:29:13.193253+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-027",
+      "number": 27,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "1cf9166068332b25655af77268c3c4c65d7d72af80ac32fb51aef3eaf2bafa20",
+      "file": "post-027.txt",
+      "title": "For compliance and GRC teams",
+      "hook": "Auditors ask how you prioritized remediation. If the answer is by CVSS, the follow-up is why you left exploited vulnerabilities open while patching unexploited ones.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#GRC",
+        "#Compliance",
+        "#Audit",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 749,
+      "publication": {
+        "urn": "urn:li:share:7493931730312220672",
+        "publishedAt": "2026-08-14T07:29:15.321747+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-028",
+      "number": 28,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "cbe352832183dcc4d510ba9a58b806b573fefbe19d0d83a328ed38622771dd83",
+      "file": "post-028.txt",
+      "title": "For the solo security engineer",
+      "hook": "One person, a whole estate, and a scanner that produces more findings than you could patch in a year. You need to know where to spend your limited hours.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CyberSecurity",
+        "#InfoSec",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 622,
+      "publication": {
+        "urn": "urn:li:share:7493931738981781504",
+        "publishedAt": "2026-08-14T07:29:17.392280+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-029",
+      "number": 29,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "3fe0d8fdd90bf742d58f295a422beee7a03509e7e46ecb8f5a8f219fb7b0cd9c",
+      "file": "post-029.txt",
+      "title": "For cyber insurers and underwriters",
+      "hook": "You price risk, and self-attested vulnerability posture is a weak input. What you want is evidence of what is exploited and reachable in the insured's environment, and whether they acted on it.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CyberInsurance",
+        "#RiskManagement",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 658,
+      "publication": {
+        "urn": "urn:li:share:7493931747462651905",
+        "publishedAt": "2026-08-14T07:29:19.374997+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-030",
+      "number": 30,
+      "track": "ICPs",
+      "status": "published",
+      "sha256": "ef62aa7550974e1117b294a75851af754aeebafa3961ff343c62a544a471ef0d",
+      "file": "post-030.txt",
+      "title": "Arc close: who it is for",
+      "hook": "MSPs, B2B SaaS with audits coming, DevSecOps, SRE, container shops, CISOs, GRC, solo engineers, insurers. Different buyers, one shared pain: a scanner that finds everything and prioritizes nothing.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 579,
+      "publication": {
+        "urn": "urn:li:share:7493931755507281920",
+        "publishedAt": "2026-08-14T07:29:21.318670+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-031",
+      "number": 31,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "5d41a6817d37dee591d763b274177ce1ee6d7a9cfe94c885c9f27d19f4a96e69",
+      "file": "post-031.txt",
+      "title": "Alert fatigue is a prioritization failure",
+      "hook": "Teams do not burn out because there are vulnerabilities. They burn out because every one is flagged Critical and none is ranked, so everything feels urgent and nothing gets done.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#AlertFatigue",
+        "#SOC",
+        "#BurnOut",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 700,
+      "publication": {
+        "urn": "urn:li:share:7493931763782684674",
+        "publishedAt": "2026-08-14T07:29:23.351836+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-032",
+      "number": 32,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "a2da306f21509b00b5120c89e0af6bdc3979c98338d328f6e00ed250a7cb8bd4",
+      "file": "post-032.txt",
+      "title": "The patch-everything myth",
+      "hook": "Nobody patches everything. There are not enough maintenance windows in the year. So teams patch what is loudest, which is usually what has the highest CVSS, which is usually not what is being exploited.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#PatchManagement",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 666,
+      "publication": {
+        "urn": "urn:li:share:7493931773953818624",
+        "publishedAt": "2026-08-14T07:29:25.682882+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-033",
+      "number": 33,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "2cca59a400313fdb05fa52272f41006225de144046aa80611dca3db0d737658d",
+      "file": "post-033.txt",
+      "title": "The 6pm security questionnaire",
+      "hook": "An enterprise prospect sends a security review. It asks how you handle vulnerability prioritization. Your honest answer is you run a scanner and do your best.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SecurityQuestionnaire",
+        "#B2BSales",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 749,
+      "publication": {
+        "urn": "urn:li:share:7493931781600120832",
+        "publishedAt": "2026-08-14T07:29:27.526281+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-034",
+      "number": 34,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "34104bc8e1019225832a3dac96d06b061ad23197bdc2cb51712ca57001857355",
+      "file": "post-034.txt",
+      "title": "The board slide nobody can defend",
+      "hook": "Twenty findings marked Critical, a red bar chart, and no answer to the only two questions the board has: what is our real exposure, and is it getting better.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#BoardGovernance",
+        "#CISO",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 591,
+      "publication": {
+        "urn": "urn:li:share:7493931793587462144",
+        "publishedAt": "2026-08-14T07:29:30.439069+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-035",
+      "number": 35,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "f73088d49767325559d6da8730e3d06a2b2a47c7f83607f9bd898f00ed5dafd7",
+      "file": "post-035.txt",
+      "title": "The audit finding that writes itself",
+      "hook": "An auditor reviews your remediation and finds exploited vulnerabilities left open while low-risk ones were patched. Prioritized by CVSS. It happens constantly.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Audit",
+        "#GRC",
+        "#Compliance",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 737,
+      "publication": {
+        "urn": "urn:li:share:7493931803007868928",
+        "publishedAt": "2026-08-14T07:29:32.705925+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-036",
+      "number": 36,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "f5eb7beebcb4d0942cdb18d380c2303d38cf397afa919bbfd510f11b99f30e0e",
+      "file": "post-036.txt",
+      "title": "The CVSS 9.8 that wasted your weekend",
+      "hook": "Someone saw a 9.8, called an emergency, and the team spent the weekend patching a vulnerability that has never been exploited and never will be, while a KEV-listed 7.5 sat open on an internet-facing box.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CVSS",
+        "#IncidentResponse",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 649,
+      "publication": {
+        "urn": "urn:li:share:7493931811601997825",
+        "publishedAt": "2026-08-14T07:29:34.629879+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-037",
+      "number": 37,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "01dcd0da2dd6399b601b8a2aa0e63288c905cd50cf0a593b70236130ac64b0bc",
+      "file": "post-037.txt",
+      "title": "The scanner nobody reads",
+      "hook": "You bought a good scanner. It runs nightly. It emails a 400-line report to a distribution list where it is deleted unread, because nobody can turn 400 lines into an action.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SecurityTools",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 625,
+      "publication": {
+        "urn": "urn:li:share:7493931818950307840",
+        "publishedAt": "2026-08-14T07:29:36.386172+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-038",
+      "number": 38,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "a74f19cf2ae6fab8a9479875edb293b08ee1c409b366feac0849b0a3551752b5",
+      "file": "post-038.txt",
+      "title": "The vendor risk gap",
+      "hook": "You ask vendors for their vulnerability posture. They send a scan. You have no way to know if the scary-looking findings are actually dangerous or inherited base-image noise.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ThirdPartyRisk",
+        "#VendorManagement",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 598,
+      "publication": {
+        "urn": "urn:li:share:7493931826978291712",
+        "publishedAt": "2026-08-14T07:29:38.547502+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-039",
+      "number": 39,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "8d81dc5d266f6e3d09e1c4223c5903f2bf75422a254b6ce73c4db3b3cf932d90",
+      "file": "post-039.txt",
+      "title": "The MTTR that never improves",
+      "hook": "Your mean time to remediate is flat, because the team is spread across everything instead of focused on what matters. Effort without prioritization does not move the metric.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#MTTR",
+        "#SecurityMetrics",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 666,
+      "publication": {
+        "urn": "urn:li:share:7493931836268539904",
+        "publishedAt": "2026-08-14T07:29:40.542222+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-040",
+      "number": 40,
+      "track": "Pain points",
+      "status": "published",
+      "sha256": "65c0536a4137d098aabc0d4a773883f11b30cd33c68d28c49e53e3dfab9d6b9f",
+      "file": "post-040.txt",
+      "title": "Arc close: the pains",
+      "hook": "Alert fatigue, the patch-everything myth, the frozen questionnaire, the indefensible board slide, the audit finding, the wasted weekend, the unread scanner, the vendor gap, the flat MTTR. All the same root cause: detection without decision.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#VulnerabilityManagement",
+        "#SOC",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 572,
+      "publication": {
+        "urn": "urn:li:share:7493931843898019849",
+        "publishedAt": "2026-08-14T07:29:42.363757+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-041",
+      "number": 41,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "3e4c96a36e7a156adfb2e07de5a60988d0784302e87ab4ee19b1ef56bc0990ce",
+      "file": "post-041.txt",
+      "title": "Trivy plus Triage",
+      "hook": "trivy image -f json app:latest > scan.json && triage -i scan.json",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Trivy",
+        "#Containers",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 629,
+      "publication": {
+        "urn": "urn:li:share:7493931852362149888",
+        "publishedAt": "2026-08-14T07:29:44.474780+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-042",
+      "number": 42,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "91461dbe772513b2d6b2e513e8869979b374d80e1cd1470facf637d5062c2fd3",
+      "file": "post-042.txt",
+      "title": "Grype plus Triage",
+      "hook": "Running Grype with Syft for SBOM-based scanning? Triage ingests Grype JSON directly.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Grype",
+        "#SBOM",
+        "#SupplyChainSecurity",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 614,
+      "publication": {
+        "urn": "urn:li:share:7493931860264275968",
+        "publishedAt": "2026-08-14T07:29:46.243556+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-043",
+      "number": 43,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "938c1542aade43772ea36c81518333d0117f6d7dabc889f426cefc6a2910d339",
+      "file": "post-043.txt",
+      "title": "OpenVAS and Nmap NSE plus Triage",
+      "hook": "Running network scans with OpenVAS or Nmap's vulners script? Export the CVEs and pipe them in. Triage accepts a plain CVE list, so any scanner that emits CVE ids feeds the decision engine.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#OpenVAS",
+        "#Nmap",
+        "#NetworkSecurity",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 570,
+      "publication": {
+        "urn": "urn:li:share:7493931868770181121",
+        "publishedAt": "2026-08-14T07:29:48.316108+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-044",
+      "number": 44,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "adc1d26735bbe528b7292ee123c759b8058a7537410cb0962d2b2c4fa7582f48",
+      "file": "post-044.txt",
+      "title": "Triage in CI/CD",
+      "hook": "Available as a GitHub Action. Add a few lines to your workflow and every pipeline run triages its own scan: fail on exploited-and-reachable, warn on probable, log the rest.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CICD",
+        "#GitHubActions",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 598,
+      "publication": {
+        "urn": "urn:li:share:7493931878706642944",
+        "publishedAt": "2026-08-14T07:29:50.720238+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-045",
+      "number": 45,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "20a73f0617100ba611218f6954728902747f24a5f86e052408fb64cd4d4a8b8f",
+      "file": "post-045.txt",
+      "title": "Triage for a Linux fleet",
+      "hook": "Point it at the package inventory or scan output for a fleet of Linux servers and get a fleet-wide decision: which hosts carry exploited-and-reachable exposures, ranked, with deadlines.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Linux",
+        "#InfrastructureSecurity",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 741,
+      "publication": {
+        "urn": "urn:li:share:7493931886642233344",
+        "publishedAt": "2026-08-14T07:29:52.569261+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-046",
+      "number": 46,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "0d6444f1051cbfac07b2383feb4e08a54df455d7543dd4e89b1025b668ed5a3a",
+      "file": "post-046.txt",
+      "title": "Triage for cloud workloads",
+      "hook": "Cloud scanners produce enormous findings across images, hosts, and IaC. Feed the CVE output through Triage with your asset context, which workloads are internet-facing and which are internal, and the decision reflects reachability.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CloudSecurity",
+        "#CSPM",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 609,
+      "publication": {
+        "urn": "urn:li:share:7493931894452019200",
+        "publishedAt": "2026-08-14T07:29:54.379623+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-047",
+      "number": 47,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "41397530ba3b9573bfce2b6b8c7cf0accf87f7f9639a661ec5766582ebba6e3b",
+      "file": "post-047.txt",
+      "title": "Triage for a point-in-time assessment",
+      "hook": "Doing a security assessment for a client? Run their scan through Triage and hand them a prioritized treatment register plus a board memo in minutes, instead of a raw scanner dump.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Consulting",
+        "#SecurityAssessment",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 710,
+      "publication": {
+        "urn": "urn:li:share:7493931901775380480",
+        "publishedAt": "2026-08-14T07:29:56.257611+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-048",
+      "number": 48,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "da550a6114c9add471a7f005d087f861f7525a73c4ab9fae8d72b84ff127fde4",
+      "file": "post-048.txt",
+      "title": "Triage before a penetration test",
+      "hook": "Before you pay for a pentest, run Triage. Close the exploited-and-reachable findings first, so the test spends its expensive hours on logic and depth, not on the KEV-listed CVE you could have patched for free.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#PenetrationTesting",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 526,
+      "publication": {
+        "urn": "urn:li:share:7493931909622861824",
+        "publishedAt": "2026-08-14T07:29:58.010453+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-049",
+      "number": 49,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "f44e850299244055a9442f9722a0638a3aec0291acc4aab880559280d4001701",
+      "file": "post-049.txt",
+      "title": "Triage as a recurring check",
+      "hook": "KEV and EPSS change. A CVE that was noise last month enters KEV this month and becomes urgent. Run Triage on a schedule against your current scan and catch that shift the day it happens.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ContinuousMonitoring",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 728,
+      "publication": {
+        "urn": "urn:li:share:7493931917004804096",
+        "publishedAt": "2026-08-14T07:29:59.810318+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-050",
+      "number": 50,
+      "track": "Use cases",
+      "status": "published",
+      "sha256": "ac28aad942a6d0b83df70b34d900a346e4b1d0b495aba6e4201f2d5b291ec728",
+      "file": "post-050.txt",
+      "title": "Arc close: the use cases",
+      "hook": "Trivy, Grype, OpenVAS, Nmap, CI/CD, Linux fleets, cloud, assessments, pre-pentest, recurring checks. One decision layer, every scanner, every workflow.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 481,
+      "publication": {
+        "urn": "urn:li:share:7493931925632483329",
+        "publishedAt": "2026-08-14T07:30:01.860085+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-051",
+      "number": 51,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "e6ee612e037d87ba92119c8655ea0f5a8eb0470c8f388a96064d1d56165b7666",
+      "file": "post-051.txt",
+      "title": "KPI: noise reduction",
+      "hook": "The headline number: what fraction of scanner findings get correctly deprioritized. In the demo, 70 percent. That is 70 percent less work, anxiety, and window time spent on things that do not matter.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SecurityMetrics",
+        "#KPIs",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 605,
+      "publication": {
+        "urn": "urn:li:share:7493931934289616897",
+        "publishedAt": "2026-08-14T07:30:03.938263+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-052",
+      "number": 52,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "8d9971248d527caee0c198af92f026bed933b9fe7ea78db5ec508d61cbc87239",
+      "file": "post-052.txt",
+      "title": "KPI: KEV exposure and closure",
+      "hook": "Track how many CISA KEV vulnerabilities are present in your environment, and how fast you close them. This is the metric that correlates most directly with real breach risk.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#KEV",
+        "#SecurityMetrics",
+        "#CISO",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 590,
+      "publication": {
+        "urn": "urn:li:share:7493931942539649024",
+        "publishedAt": "2026-08-14T07:30:05.884986+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-053",
+      "number": 53,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "d797ba98067bc1e03291376f238d95e49c4b73609d61d6a87203575d287fccef",
+      "file": "post-053.txt",
+      "title": "KPI: time to decision",
+      "hook": "Not time to remediate, time to decision. How long from scan output to a defensible, prioritized treatment list. For most teams it is days of manual review. With Triage it is seconds.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SecurityMetrics",
+        "#MTTR",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 579,
+      "publication": {
+        "urn": "urn:li:share:7493931952299962368",
+        "publishedAt": "2026-08-14T07:30:08.230571+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-054",
+      "number": 54,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "d8d39eefef017d85b3ec0038e1f41d17ff68a987017b6f7bb72544b013371617",
+      "file": "post-054.txt",
+      "title": "KPI: coverage of subsequently-exploited CVEs",
+      "hook": "The honest test of any prioritization: of the vulnerabilities that later got exploited, how many did you flag as urgent in advance?",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ThreatIntel",
+        "#SecurityMetrics",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 594,
+      "publication": {
+        "urn": "urn:li:share:7493931961057673216",
+        "publishedAt": "2026-08-14T07:30:10.332073+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-055",
+      "number": 55,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "7ae823c082f3ca64d278df09b579091dd04b7c812d3eecfb7e807e1ce63ee250",
+      "file": "post-055.txt",
+      "title": "KPI: remediation effort avoided",
+      "hook": "Every finding you correctly defer is engineering hours not spent. Multiply the deprioritized count by the average effort per fix and you have a hard cost saving, in hours, from accurate deprioritization.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#FinOps",
+        "#SecurityMetrics",
+        "#CFO",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 705,
+      "publication": {
+        "urn": "urn:li:share:7493931968586342400",
+        "publishedAt": "2026-08-14T07:30:12.119798+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-056",
+      "number": 56,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "ac7c53cc7da72edff02f414893e9accf9135d7a472dd0fdf75d5952abc20181c",
+      "file": "post-056.txt",
+      "title": "KPI: dwell-time contribution",
+      "hook": "Every day an exploited, reachable vulnerability stays open is a day of exposure with a real cost, and breach studies attach a number to it.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DwellTime",
+        "#CyberRisk",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 587,
+      "publication": {
+        "urn": "urn:li:share:7493931976899452928",
+        "publishedAt": "2026-08-14T07:30:14.066737+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-057",
+      "number": 57,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "1fd111da38154da7972cb6a07106b368e30627b4691a9663bd537485b05a9f4f",
+      "file": "post-057.txt",
+      "title": "KPI: expected-loss exposure trend",
+      "hook": "Sum the expected-loss scaffold across your FIX NOW items and track it over time. As you close exploited exposures, the number falls. As new KEV entries land, it rises.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CyberRisk",
+        "#BoardGovernance",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 688,
+      "publication": {
+        "urn": "urn:li:share:7493931985233448960",
+        "publishedAt": "2026-08-14T07:30:16.147776+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-058",
+      "number": 58,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "554ec349ed38e610cd250d2963946c46d746646ccc007b6644432aeb7fddd146",
+      "file": "post-058.txt",
+      "title": "KPI: false-urgency rate",
+      "hook": "How often does your team drop everything for a finding that turns out not to matter? Every CVSS-driven fire drill is a false-urgency event, and they destroy morale and focus.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SOC",
+        "#SecurityCulture",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 579,
+      "publication": {
+        "urn": "urn:li:share:7493931994343591936",
+        "publishedAt": "2026-08-14T07:30:18.296183+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-059",
+      "number": 59,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "d155f321f5a67a0fdfde74b7d6d975ee3f391bcf810ee643c17ef58da11ca5c8",
+      "file": "post-059.txt",
+      "title": "KPI: analyst leverage",
+      "hook": "How many assets or clients can one analyst keep triaged? For an MSP or a small team, this is the number that caps growth.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#MSP",
+        "#Productivity",
+        "#Scaling",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 674,
+      "publication": {
+        "urn": "urn:li:share:7493932002799194112",
+        "publishedAt": "2026-08-14T07:30:20.225565+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-060",
+      "number": 60,
+      "track": "KPIs",
+      "status": "published",
+      "sha256": "1575f13a11bfc8fddbc201746e3dc06c13a4f7bd887ddfe543c803c94bdb817f",
+      "file": "post-060.txt",
+      "title": "Arc close: the KPIs",
+      "hook": "Noise reduction, KEV closure, time to decision, coverage of exploited CVEs, effort avoided, dwell-time contribution, expected-loss trend, false-urgency rate, analyst leverage.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SecurityMetrics",
+        "#KPIs",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 594,
+      "publication": {
+        "urn": "urn:li:share:7493932010068111360",
+        "publishedAt": "2026-08-14T07:30:21.956741+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-061",
+      "number": 61,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "bc87dda1b7bdad8f7c64a0a68ad5f11ea17b93916d4d1c566c3e322348609dfc",
+      "file": "post-061.txt",
+      "title": "Triage vs a scanner",
+      "hook": "A scanner finds vulnerabilities and produces a list. Triage decides which ones matter and produces a verdict. They are not competitors, they are layers.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SecurityTools",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 561,
+      "publication": {
+        "urn": "urn:li:share:7493932019865899008",
+        "publishedAt": "2026-08-14T07:30:24.282889+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-062",
+      "number": 62,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "29c7dd61df11f5a5a6dda71ec8978d583638a5f5962623d73a6d3b958187d416",
+      "file": "post-062.txt",
+      "title": "Triage vs CVSS-only prioritization",
+      "hook": "CVSS-only means patching the theoretically severe and leaving the actually exploited open. It inverts your risk and it does not scale past a few hundred Criticals.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CVSS",
+        "#RiskManagement",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 631,
+      "publication": {
+        "urn": "urn:li:share:7493932027742904320",
+        "publishedAt": "2026-08-14T07:30:26.202653+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-063",
+      "number": 63,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "2bb5d071db509c91ce657e1d7c085334d73bb877bc98127696e0c17245ac37b5",
+      "file": "post-063.txt",
+      "title": "Triage vs commercial prioritization platforms",
+      "hook": "There is a whole commercial category, Vulcan, Nucleus and others, whose product is exactly this decision layer. That category existing proves the value.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#VulnerabilityManagement",
+        "#OpenSource",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 744,
+      "publication": {
+        "urn": "urn:li:share:7493932035158441985",
+        "publishedAt": "2026-08-14T07:30:27.973962+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-064",
+      "number": 64,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "782bd1a6e5dc5c70ee066d2fa4cea9b0bbdee7c5513f13e994aac6edc296cd17",
+      "file": "post-064.txt",
+      "title": "Triage vs a bug bounty finding",
+      "hook": "A bug bounty gives you one vulnerability, once, discovered by one researcher's hours. Valuable, but transactional and unrepeatable.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#BugBounty",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 557,
+      "publication": {
+        "urn": "urn:li:share:7493932044637433856",
+        "publishedAt": "2026-08-14T07:30:30.332342+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-065",
+      "number": 65,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "7215fea773baaddeb422971bcb148c78384e4ccd9b23a5dfde7706ef74be84f8",
+      "file": "post-065.txt",
+      "title": "Triage vs a spreadsheet",
+      "hook": "Most teams triage in a spreadsheet: paste the scan, colour by severity, argue in a meeting. It does not scale, it is not reproducible, and it is not defensible to an auditor.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#GRC",
+        "#Automation",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 581,
+      "publication": {
+        "urn": "urn:li:share:7493932053185495040",
+        "publishedAt": "2026-08-14T07:30:32.236710+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-066",
+      "number": 66,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "9b69159ba64e352c1bb81626bac036a3bc772d3b03fc37752c2ad65e0e661a3a",
+      "file": "post-066.txt",
+      "title": "Triage vs doing nothing",
+      "hook": "The honest competitor for most teams is inaction: the scan runs, the report is ignored, and prioritization happens only after an incident.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SOC",
+        "#IncidentResponse",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 560,
+      "publication": {
+        "urn": "urn:li:share:7493932059778928640",
+        "publishedAt": "2026-08-14T07:30:33.847242+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-067",
+      "number": 67,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "60d184e31935250f59055d56f9cfe867b5cb3b198ce3d739b37802dd18a19247",
+      "file": "post-067.txt",
+      "title": "Triage vs an adversary-emulation platform",
+      "hook": "Caldera and similar platforms run real TTPs against your environment. Powerful, and heavy, and requiring authorization and care.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#MITREATTACK",
+        "#ThreatEmulation",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 632,
+      "publication": {
+        "urn": "urn:li:share:7493932066485690368",
+        "publishedAt": "2026-08-14T07:30:35.448445+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-068",
+      "number": 68,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "9f1ae0d01e21ddc1bf9a9700fa443d41eec2a5bf730db7158bc505293f0ee9cb",
+      "file": "post-068.txt",
+      "title": "Triage vs threat-intel feeds",
+      "hook": "A threat-intel feed tells you what is happening in the world. It does not tell you which of your vulnerabilities that world affects.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ThreatIntel",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 584,
+      "publication": {
+        "urn": "urn:li:share:7493932074945515520",
+        "publishedAt": "2026-08-14T07:30:37.462804+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-069",
+      "number": 69,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "4fce59d13364ece0e0c9480cddb2bbb8f232bfe5e5e88a04e1809be9795ea06c",
+      "file": "post-069.txt",
+      "title": "Triage vs hiring another analyst",
+      "hook": "The instinct when drowning in findings is to hire. But another analyst triaging by hand hits the same ceiling, just later.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Scaling",
+        "#Productivity",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 563,
+      "publication": {
+        "urn": "urn:li:share:7493932083334098944",
+        "publishedAt": "2026-08-14T07:30:39.441182+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-070",
+      "number": 70,
+      "track": "Comparisons",
+      "status": "published",
+      "sha256": "c4658e7a3caa2ba970fe5087665d2f23bb824b816b4e4ef82a76e82f7fd5e469",
+      "file": "post-070.txt",
+      "title": "Arc close: the comparisons",
+      "hook": "Against scanners, CVSS, commercial platforms, bug bounty, spreadsheets, inaction, emulation platforms, raw feeds, and more hiring, Triage occupies a clear seat: the free, open, vendor-neutral decision layer above them all.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 536,
+      "publication": {
+        "urn": "urn:li:share:7493932091521392640",
+        "publishedAt": "2026-08-14T07:30:41.468527+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-071",
+      "number": 71,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "e4b3700d6f4c44562bda406cb1ce574a2e92053d6d68456bcac7afff083a9cb3",
+      "file": "post-071.txt",
+      "title": "The three-tier decision, for executives",
+      "hook": "Triage sorts every finding into three tiers a board understands without a security briefing:",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#BoardGovernance",
+        "#CISO",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 616,
+      "publication": {
+        "urn": "urn:li:share:7493932101382217728",
+        "publishedAt": "2026-08-14T07:30:43.756252+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-072",
+      "number": 72,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "26b3c80b95e06ebeb36f39b755b891b12109b265affa5b53e5fa042e4e4400a3",
+      "file": "post-072.txt",
+      "title": "Expected loss, honestly ranged",
+      "hook": "Triage translates each top exposure into an expected-loss range: measured likelihood, from KEV and EPSS and reachability, times the asset value you supply.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CyberRisk",
+        "#CRQ",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 735,
+      "publication": {
+        "urn": "urn:li:share:7493932109577883649",
+        "publishedAt": "2026-08-14T07:30:45.742570+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-073",
+      "number": 73,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "65bada475292487c525c477e51d9c64334ed84254dc95dc2fa3ad425eaeb1824",
+      "file": "post-073.txt",
+      "title": "The one-page memo",
+      "hook": "What is exposed. Why it matters now. Which business process is at risk. What management should authorize. The cost of delay. What remains uncertain.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#BoardGovernance",
+        "#ExecutiveCommunication",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 598,
+      "publication": {
+        "urn": "urn:li:share:7493932116569735168",
+        "publishedAt": "2026-08-14T07:30:47.419116+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-074",
+      "number": 74,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "8d4d3bac47da37853832966af1d3ad784f06e08ae27231434d3ef53661efb33c",
+      "file": "post-074.txt",
+      "title": "The cost of delay, quantified",
+      "hook": "Boards approve maintenance windows when they understand the cost of not approving them. Triage frames each FIX NOW item with its expected-loss exposure and a deadline, so the cost of delay is explicit.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CyberRisk",
+        "#CISO",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 665,
+      "publication": {
+        "urn": "urn:li:share:7493932123108691968",
+        "publishedAt": "2026-08-14T07:30:48.948011+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-075",
+      "number": 75,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "308dc3614bb3f558f0bc7bbe4fd76dd0fcb6b0e788c431b635448ee6426fd363",
+      "file": "post-075.txt",
+      "title": "From ATT&CK path to business event",
+      "hook": "The memo does not say T1190. It says: this finding lets an attacker in, and the known path from there ends in your operations stopping. The ATT&CK chain is the mechanism; the business event is the message.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#MITREATTACK",
+        "#BoardGovernance",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 585,
+      "publication": {
+        "urn": "urn:li:share:7493932130767540224",
+        "publishedAt": "2026-08-14T07:30:50.762125+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-076",
+      "number": 76,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "dc085b19627aa7341003342d2a5fe88a2f3f844dfff74d1f0e8380f6215f9940",
+      "file": "post-076.txt",
+      "title": "What remains uncertain, stated plainly",
+      "hook": "Every Triage memo includes what it does not know: that expected-loss is a scaffold, that reachability depends on the asset context supplied, that public exploitation does not prove you are targeted.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#RiskManagement",
+        "#Governance",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 586,
+      "publication": {
+        "urn": "urn:li:share:7493932137797062657",
+        "publishedAt": "2026-08-14T07:30:52.483333+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-077",
+      "number": 77,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "0f11e3b607bfe18c3c5ecbd70f725d77ba2fc3c8401f7e04e5796163a22bf19d",
+      "file": "post-077.txt",
+      "title": "The CFO conversation",
+      "hook": "A CFO does not fund CVEs. They fund reduced expected loss per dollar spent. Triage frames vulnerability work in exactly those terms: here is the exposure in currency, here is what closing it costs, here is the return.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CFO",
+        "#CyberRisk",
+        "#FinOps",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 668,
+      "publication": {
+        "urn": "urn:li:share:7493932145246273536",
+        "publishedAt": "2026-08-14T07:30:54.207554+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-078",
+      "number": 78,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "d13597c1e53e084282e84231476c5e9fa8dab29f45cddd4992c63219df5f7559",
+      "file": "post-078.txt",
+      "title": "The audit committee answer",
+      "hook": "Audit committees ask whether the organisation prioritizes remediation defensibly. Triage is the answer: a documented, reproducible decision per finding, tied to authoritative exploitation data.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Audit",
+        "#GRC",
+        "#Governance",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 566,
+      "publication": {
+        "urn": "urn:li:share:7493932152305131522",
+        "publishedAt": "2026-08-14T07:30:55.899789+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-079",
+      "number": 79,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "0715a5b7decd054b4e1eb765eb614ffcb752d51669badbd5060d95e5b53aa0a2",
+      "file": "post-079.txt",
+      "title": "Why the board translation is the moat",
+      "hook": "Any engineer can run a scanner. Far fewer can turn the output into a decision a board funds. That translation, from CVE to expected loss to authorized action, is the scarce skill.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CISO",
+        "#BoardGovernance",
+        "#CyberRisk",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 729,
+      "publication": {
+        "urn": "urn:li:share:7493932159343382528",
+        "publishedAt": "2026-08-14T07:30:57.559484+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-080",
+      "number": 80,
+      "track": "Board translation",
+      "status": "published",
+      "sha256": "2b6dc373a5ce63c4afbd0c19166ef411b36de4f4d34ab9b3e819e4a636e5d03f",
+      "file": "post-080.txt",
+      "title": "Arc close: the board translation",
+      "hook": "Three tiers, an honest expected-loss range, a one-page memo, the cost of delay, the ATT&CK-to-business-event story, and stated uncertainty. That is how a scan becomes a board decision.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#BoardGovernance",
+        "#CyberRisk",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 519,
+      "publication": {
+        "urn": "urn:li:share:7493932167660609536",
+        "publishedAt": "2026-08-14T07:30:59.575417+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-081",
+      "number": 81,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "375e4000ea3d3e96c572386b7a7f2d9ef7183b1aa713d47edaefe2612f15e6df",
+      "file": "post-081.txt",
+      "title": "Open core, in one line",
+      "hook": "The tool is free and open source. The decision layer everyone needs, given away. What is paid is validating reachability in your specific environment, engineering the safe remediation, and verifying closure.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#OpenSource",
+        "#SaaS",
+        "#BusinessModel",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 576,
+      "publication": {
+        "urn": "urn:li:share:7493932175625621504",
+        "publishedAt": "2026-08-14T07:31:01.483057+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-082",
+      "number": 82,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "46c21bac4186b2c1c7a475adfdd086b180085d73be485adb24c2c5d52ef815fa",
+      "file": "post-082.txt",
+      "title": "The dataset nobody else has",
+      "hook": "Every triage run and every engagement records which vulnerabilities show up in real environments, how they get prioritized, and which remediations work. That outcome data exists nowhere else.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DataStrategy",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 713,
+      "publication": {
+        "urn": "urn:li:share:7493932183561211904",
+        "publishedAt": "2026-08-14T07:31:03.369188+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-083",
+      "number": 83,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "30dc832c4f379f223a5b0aebc388cd9f5681de5f3511cfcf5ba277ce7a8fbf83",
+      "file": "post-083.txt",
+      "title": "Each engagement makes the next cheaper",
+      "hook": "The first remediation of a vulnerability family is expensive. The tenth is a reused playbook. Triage captures the treatment templates, detection rules, and verification tests from each engagement into reusable components.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Scaling",
+        "#Consulting",
+        "#Productization",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 643,
+      "publication": {
+        "urn": "urn:li:share:7493932191836557313",
+        "publishedAt": "2026-08-14T07:31:05.397092+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-084",
+      "number": 84,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "4b042716d1f94c7fd8f0656f8303c384ea9d636a673d1a747ea15c79d4d7b6fc",
+      "file": "post-084.txt",
+      "title": "Why open source is the distribution",
+      "hook": "Developers find tools by running them, not by reading ads. An open, one-command CLI spreads through GitHub, CI pipelines, and word of mouth, in channels no marketing budget can buy.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#OpenSource",
+        "#GoToMarket",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 597,
+      "publication": {
+        "urn": "urn:li:share:7493932201298870272",
+        "publishedAt": "2026-08-14T07:31:07.708080+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-085",
+      "number": 85,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "a223c6f71d9347931f48b7a404e2fee114a845801b645fec2c5368c14923a910",
+      "file": "post-085.txt",
+      "title": "The standard, not the product",
+      "hook": "Tools get commoditized. Standards collect rent. If Triage becomes the reference way teams decide which vulnerabilities matter, the methodology, not any single feature, is the durable position.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Standards",
+        "#Strategy",
+        "#OpenSource",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 554,
+      "publication": {
+        "urn": "urn:li:share:7493932209804910592",
+        "publishedAt": "2026-08-14T07:31:09.593975+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-086",
+      "number": 86,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "b938a7833f1e6bea9f630f76508974fe1855944e0b533b61468974d5a729f0ed",
+      "file": "post-086.txt",
+      "title": "Recurring revenue from a moving signal",
+      "hook": "KEV and EPSS change daily. What is noise this week is urgent next week. That means the decision is never done, which means continuous re-triage is a genuine recurring need, not a manufactured subscription.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SaaS",
+        "#RecurringRevenue",
+        "#ContinuousMonitoring",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 760,
+      "publication": {
+        "urn": "urn:li:share:7493932217396621312",
+        "publishedAt": "2026-08-14T07:31:11.434638+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-087",
+      "number": 87,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "64bf7dfd1d5bde7c6a9c7e34f29f9fcf4fa6c8c445bdd8725a75b7743f852dc6",
+      "file": "post-087.txt",
+      "title": "From triage to a foundry",
+      "hook": "Do enough triage-to-remediation engagements and the repeated parts, the CVE-family playbooks, the treatment templates, the verification tests, become a system. A vulnerability-to-verified-remediation foundry.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Automation",
+        "#Scaling",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 595,
+      "publication": {
+        "urn": "urn:li:share:7493932224203890688",
+        "publishedAt": "2026-08-14T07:31:13.020863+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-088",
+      "number": 88,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "b9e1e7ca105212a0cf1886570da35ef6766464f0d20a7c9c3990222ba8ff08e1",
+      "file": "post-088.txt",
+      "title": "Why this is investable",
+      "hook": "An open-source tool with real adoption, a paid service converting that adoption, and a proprietary outcome dataset that improves with every engagement. Free funnel, paid revenue, data moat.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Startups",
+        "#VentureCapital",
+        "#SaaS",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 698,
+      "publication": {
+        "urn": "urn:li:share:7493932230873047040",
+        "publishedAt": "2026-08-14T07:31:14.596998+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-089",
+      "number": 89,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "41f28bc864a54b5cacf85eb8d950763913191c6055231dbc337bc848d4cdcc9c",
+      "file": "post-089.txt",
+      "title": "Compounding, not hours",
+      "hook": "Consulting caps at your hours. A tool that runs without you and a dataset that grows with use do not.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Productization",
+        "#Scaling",
+        "#Strategy",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 568,
+      "publication": {
+        "urn": "urn:li:share:7493932239181836289",
+        "publishedAt": "2026-08-14T07:31:16.825923+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-090",
+      "number": 90,
+      "track": "Compounding leverage",
+      "status": "published",
+      "sha256": "b978d9b107813836229b197e8b6e828483bb149e08d65da6e96feec44056f338",
+      "file": "post-090.txt",
+      "title": "Arc close: the compounding",
+      "hook": "Open core, a dataset no one else has, declining marginal delivery cost, open-source distribution, a shot at owning the decision standard, recurring revenue on a moving signal, and a foundry that emerges from repetition.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Strategy",
+        "#OpenSource",
+        "#SaaS",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 613,
+      "publication": {
+        "urn": "urn:li:share:7493932248333742081",
+        "publishedAt": "2026-08-14T07:31:18.814465+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-091",
+      "number": 91,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "0cf3889b38a9328eef99f9294765ce6b1ae9c13201f455dd6d37047c72827bf6",
+      "file": "post-091.txt",
+      "title": "Where the free tool ends and a2zsoc begins",
+      "hook": "Triage tells you what to fix and why it matters. It cannot, from a scan alone, validate reachability in your specific network, engineer a safe patch for your production, run authorized emulation, or verify that the exposure stays closed.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#DevSecOps",
+        "#ManagedSecurity",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 702,
+      "publication": {
+        "urn": "urn:li:share:7493932255669690368",
+        "publishedAt": "2026-08-14T07:31:20.754184+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-092",
+      "number": 92,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "69c94f2f6757979ec4a7eea171cc9d78de5798fc16dd64243bca2235e5caaa92",
+      "file": "post-092.txt",
+      "title": "Exposure validation",
+      "hook": "The first paid step: confirm which of the exploited findings are genuinely reachable in your environment, assess the compensating controls, and produce an executive exposure memo you can act on.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#SecurityAssessment",
+        "#Consulting",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 722,
+      "publication": {
+        "urn": "urn:li:share:7493932264041607168",
+        "publishedAt": "2026-08-14T07:31:22.583550+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-093",
+      "number": 93,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "091e1ee7beb3a73ddcbd9c7dbb4b1cc55c039b73d8b51f6854cdf5ba5bc9a45b",
+      "file": "post-093.txt",
+      "title": "Remediation engineering",
+      "hook": "Once the exposures are validated, the harder work: engineering the safe patch or compensating control, testing it, planning rollback, and deploying without breaking production.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Remediation",
+        "#SecurityEngineering",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 694,
+      "publication": {
+        "urn": "urn:li:share:7493932271670890496",
+        "publishedAt": "2026-08-14T07:31:24.349576+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-094",
+      "number": 94,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "f99c4332da0a039247b01f6be5157689ad38625e94b35664944821d4809b1270",
+      "file": "post-094.txt",
+      "title": "Authorized threat emulation",
+      "hook": "For the exposures that matter most, prove it safely: run the ATT&CK techniques against a replica or under strict authorization, measure whether detection fires, and feed the result into a calibrated risk number.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ThreatEmulation",
+        "#PurpleTeam",
+        "#MITREATTACK",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 640,
+      "publication": {
+        "urn": "urn:li:share:7493932279803727872",
+        "publishedAt": "2026-08-14T07:31:26.298670+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-095",
+      "number": 95,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "77eb64b020977f5d60e34cb4334bc74cf77f7ae50b0c39ce2e1f8ce33f39826a",
+      "file": "post-095.txt",
+      "title": "Calibrated cyber risk quantification",
+      "hook": "The free tool gives an expected-loss scaffold, a range. The paid engagement calibrates it: real business-service mapping, real asset values, defensible figures your board and your insurer will accept.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#CRQ",
+        "#CyberRisk",
+        "#CISO",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 679,
+      "publication": {
+        "urn": "urn:li:share:7493932287248535552",
+        "publishedAt": "2026-08-14T07:31:28.112789+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-096",
+      "number": 96,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "13caaec7df68d6a873c78425e23a59c7f28fa99ef124d8874a70f8b95f6bff1b",
+      "file": "post-096.txt",
+      "title": "Continuous assurance",
+      "hook": "Because KEV and EPSS move, the decision is never final. The a2zsoc retainer re-triages your environment as the threat landscape shifts, updates the treatment priorities, and verifies that closed exposures stay closed.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ContinuousMonitoring",
+        "#ManagedSecurity",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 688,
+      "publication": {
+        "urn": "urn:li:share:7493932295964299264",
+        "publishedAt": "2026-08-14T07:31:30.167254+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-097",
+      "number": 97,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "f6b256cd75b67c0889a2945a3e6f61daf3ee647b745346e6dbca58cb29fffdb5",
+      "file": "post-097.txt",
+      "title": "For the MSP partner",
+      "hook": "If you manage security for many clients, Triage plus a2zsoc is a service line: free triage across your customer base, and a specialist remediation-and-verification layer you resell under your own delivery.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#MSP",
+        "#Partnership",
+        "#ChannelSales",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 705,
+      "publication": {
+        "urn": "urn:li:share:7493932303052771328",
+        "publishedAt": "2026-08-14T07:31:31.870998+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-098",
+      "number": 98,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "4bbdb4a74da8ecf63129ff290e7fd9e96bd3d133b88855101a162f6bc878ee8b",
+      "file": "post-098.txt",
+      "title": "The productized packages",
+      "hook": "The follow-on is not open-ended consulting. It is scoped: exposure validation, remediation engineering, authorized emulation, calibrated CRQ, continuous assurance. Fixed scope, fixed deliverables, clear boundaries.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/pricing?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#ProductizedServices",
+        "#Consulting",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 679,
+      "publication": {
+        "urn": "urn:li:share:7493932311646949376",
+        "publishedAt": "2026-08-14T07:31:33.956484+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-099",
+      "number": 99,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "7f5f0882765c0acb6af25120162eace5c734153e517aa5615b6c43a5f11fe106",
+      "file": "post-099.txt",
+      "title": "Start with a conversation",
+      "hook": "Run Triage on your own scan first. See what it cuts. If the exposures it surfaces need validating, closing, and verifying, that is the conversation.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#Consulting",
+        "#DevSecOps",
+        "#VulnerabilityManagement",
+        "#CyberSecurity",
+        "#CVE",
+        "#OpenSource"
+      ],
+      "chars": 671,
+      "publication": {
+        "urn": "urn:li:share:7493932319297261569",
+        "publishedAt": "2026-08-14T07:31:35.794093+00:00"
+      }
+    },
+    {
+      "id": "vuln-triage-launch-100-100",
+      "number": 100,
+      "track": "The a2zsoc funnel",
+      "status": "published",
+      "sha256": "11694a66623f1173fdd03546ade8837c96f7a875df946712ef12111f8ea58132",
+      "file": "post-100.txt",
+      "title": "Series close: from a free CLI to closed exposure",
+      "hook": "One hundred posts on one idea: scanning is commodity, deciding is the value, and deciding well means prioritizing by real-world exploitation, not CVSS.",
+      "links": [
+        "https://github.com/AAH20/vuln-triage",
+        "https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100",
+        "https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100"
+      ],
+      "hashtags": [
+        "#OpenSource",
+        "#VulnerabilityManagement",
+        "#DevSecOps",
+        "#CyberSecurity",
+        "#CVE"
+      ],
+      "chars": 698,
+      "publication": {
+        "urn": "urn:li:share:7493932327945916416",
+        "publishedAt": "2026-08-14T07:31:37.764250+00:00"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Noise reduction, KEV closure, time to decision, coverage of exploited CVEs, effort avoided, dwell-time contribution, expected-loss trend, false-urgency rate, analyst leverage.
+
+Every one is measurable, and every one improves when you decide by exploitation instead of severity. Free tool, real metrics. Next: how it compares to what you already use.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SecurityMetrics #KPIs #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

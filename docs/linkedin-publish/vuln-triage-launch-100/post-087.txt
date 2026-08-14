@@ -1,0 +1,8 @@
+Do enough triage-to-remediation engagements and the repeated parts, the CVE-family playbooks, the treatment templates, the verification tests, become a system. A vulnerability-to-verified-remediation foundry.
+
+The foundry is not designed upfront; it emerges from the reusable exhaust of real engagements. The free tool is where the exhaust starts accumulating.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Automation #Scaling #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

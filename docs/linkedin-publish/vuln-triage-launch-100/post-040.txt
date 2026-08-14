@@ -1,0 +1,8 @@
+Alert fatigue, the patch-everything myth, the frozen questionnaire, the indefensible board slide, the audit finding, the wasted weekend, the unread scanner, the vendor gap, the flat MTTR. All the same root cause: detection without decision.
+
+Triage is the decision, free and open source. Next: the exact use cases and the scanners it plugs into.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#VulnerabilityManagement #SOC #DevSecOps #CyberSecurity #CVE #OpenSource

@@ -1,0 +1,9 @@
+Triage translates each top exposure into an expected-loss range: measured likelihood, from KEV and EPSS and reachability, times the asset value you supply.
+
+It is a range, never a fake precise number, and the memo says so plainly. But a range grounded in exploitation evidence beats a red bar chart every time. Supply real asset values and it sharpens. Calibrated CRQ is the paid engagement.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CyberRisk #CRQ #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

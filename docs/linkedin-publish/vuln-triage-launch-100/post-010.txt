@@ -1,0 +1,10 @@
+Scanning is commodity. Deciding is the value. And deciding well means prioritizing by real-world exploitation, not CVSS severity, with a result a board can act on.
+
+That is Triage, and it is free and open source. The next posts go through who it is for, the pain it removes, the methodology, and where the paid work begins.
+
+Clone it, run it against your own scan, and tell me what it cut.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#OpenSource #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE

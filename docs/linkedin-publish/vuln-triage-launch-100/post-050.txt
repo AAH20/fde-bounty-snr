@@ -1,0 +1,8 @@
+Trivy, Grype, OpenVAS, Nmap, CI/CD, Linux fleets, cloud, assessments, pre-pentest, recurring checks. One decision layer, every scanner, every workflow.
+
+It plugs into what you already run and makes it actionable. Free and open source. Next: the KPIs it moves.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

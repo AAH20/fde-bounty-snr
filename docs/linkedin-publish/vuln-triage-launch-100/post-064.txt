@@ -1,0 +1,8 @@
+A bug bounty gives you one vulnerability, once, discovered by one researcher's hours. Valuable, but transactional and unrepeatable.
+
+Triage is a system that decides across your entire finding set, every scan, reproducibly, with a methodology you own. Not a one-off find, a standing decision capability. Different economics entirely.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#BugBounty #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

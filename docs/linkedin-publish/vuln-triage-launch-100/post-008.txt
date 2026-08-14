@@ -1,0 +1,10 @@
+Run Triage twice on the same input and you get byte-identical output. Same scan, same decision, every time.
+
+That sounds obvious until you notice how many security tools give you a different answer on Tuesday than they did on Monday. A decision you cannot reproduce is not a decision, it is an opinion.
+
+Determinism is verified by property tests in the repo, including the invariant that a non-exploited CVSS 9.8 must be deprioritized. Auditable by design.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Engineering #Reproducibility #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

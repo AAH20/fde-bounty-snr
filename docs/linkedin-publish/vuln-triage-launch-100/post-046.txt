@@ -1,0 +1,8 @@
+Cloud scanners produce enormous findings across images, hosts, and IaC. Feed the CVE output through Triage with your asset context, which workloads are internet-facing and which are internal, and the decision reflects reachability.
+
+A KEV finding on a public-facing service is an emergency. The same in a private subnet is scheduled. Cloud context, folded into the decision.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CloudSecurity #CSPM #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

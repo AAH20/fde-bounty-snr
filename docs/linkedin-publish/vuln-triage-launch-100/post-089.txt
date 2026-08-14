@@ -1,0 +1,8 @@
+Consulting caps at your hours. A tool that runs without you and a dataset that grows with use do not.
+
+Triage is the first step out of the hours-for-money ceiling: the decision it automates is work a human used to do by hand. The escape from the ceiling is productization plus data, and this is where it begins.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Productization #Scaling #Strategy #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

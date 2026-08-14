@@ -1,0 +1,10 @@
+MSPs, B2B SaaS with audits coming, DevSecOps, SRE, container shops, CISOs, GRC, solo engineers, insurers. Different buyers, one shared pain: a scanner that finds everything and prioritizes nothing.
+
+Triage removes that pain for free. The follow-on, validating and closing the exposures it surfaces, is where a2zsoc engages.
+
+Next: the specific pains, named.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

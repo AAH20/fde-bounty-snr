@@ -1,0 +1,10 @@
+You already run Trivy or Grype in the pipeline. It flags fifty things per build and developers ignore all of them, because they cannot tell which one matters.
+
+Triage takes that scanner output and returns a decision: fail the build on the exploited-and-reachable, warn on the probable, log the rest. Available as a GitHub Action so it drops into CI.
+
+Prioritization your developers will actually act on, because it is not crying wolf on every CVSS 7.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DevSecOps #CICD #ShiftLeft #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

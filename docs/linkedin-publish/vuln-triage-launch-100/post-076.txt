@@ -1,0 +1,8 @@
+Every Triage memo includes what it does not know: that expected-loss is a scaffold, that reachability depends on the asset context supplied, that public exploitation does not prove you are targeted.
+
+Stating uncertainty is not weakness, it is what makes the rest credible to a board and defensible to a regulator. Honesty is the differentiator.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#RiskManagement #Governance #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

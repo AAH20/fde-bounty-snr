@@ -1,0 +1,10 @@
+Twenty findings marked Critical, a red bar chart, and no answer to the only two questions the board has: what is our real exposure, and is it getting better.
+
+Triage produces the memo that answers both, in expected-loss terms grounded in exploitation evidence. Not a CVE count. A decision.
+
+Stop reporting scanner output to your board. Report a decision.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#BoardGovernance #CISO #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

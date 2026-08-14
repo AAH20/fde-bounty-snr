@@ -1,0 +1,10 @@
+You bought a good scanner. It runs nightly. It emails a 400-line report to a distribution list where it is deleted unread, because nobody can turn 400 lines into an action.
+
+Triage is the layer that makes the scanner worth its licence: it converts the 400 lines into the 12 that matter and the 1 that is urgent. The scanner finds; Triage decides.
+
+Your existing tools, finally actionable.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SecurityTools #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

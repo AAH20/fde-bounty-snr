@@ -1,0 +1,8 @@
+A threat-intel feed tells you what is happening in the world. It does not tell you which of your vulnerabilities that world affects.
+
+Triage joins the intelligence (KEV, EPSS) to your findings and your assets, producing a decision specific to you. Intelligence is the input; the decision about your environment is the output. That join is the value.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#ThreatIntel #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

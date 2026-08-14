@@ -1,0 +1,8 @@
+What is exposed. Why it matters now. Which business process is at risk. What management should authorize. The cost of delay. What remains uncertain.
+
+Six answers, one page, generated from the scan. That is the executive memo Triage produces, and it is the difference between a security team that reports activity and one that drives decisions.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#BoardGovernance #ExecutiveCommunication #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

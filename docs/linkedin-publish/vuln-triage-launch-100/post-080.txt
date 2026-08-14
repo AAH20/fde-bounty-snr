@@ -1,0 +1,8 @@
+Three tiers, an honest expected-loss range, a one-page memo, the cost of delay, the ATT&CK-to-business-event story, and stated uncertainty. That is how a scan becomes a board decision.
+
+Triage does it for free. The calibrated version is the paid work. Next: why this compounds.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#BoardGovernance #CyberRisk #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

@@ -1,0 +1,8 @@
+The honest test of any prioritization: of the vulnerabilities that later got exploited, how many did you flag as urgent in advance?
+
+Because Triage leads with KEV and EPSS, its FIX NOW list is heavily weighted toward what actually gets exploited. Track this over time and it is the proof that your prioritization predicts reality instead of severity.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#ThreatIntel #SecurityMetrics #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

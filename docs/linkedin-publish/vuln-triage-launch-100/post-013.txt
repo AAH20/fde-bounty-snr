@@ -1,0 +1,10 @@
+The same CVE on an internet-facing web server and on an air-gapped batch box are not the same risk. Severity scores treat them identically. Attackers do not.
+
+Triage takes your asset context, which systems are reachable and which are segmented, and folds it into the decision. A KEV finding on a reachable critical asset is an emergency. The same finding behind segmentation is a scheduled fix.
+
+Environment is half of risk. Most prioritization ignores it.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#NetworkSecurity #AttackSurface #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

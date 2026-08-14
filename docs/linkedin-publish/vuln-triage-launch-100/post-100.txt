@@ -1,0 +1,11 @@
+One hundred posts on one idea: scanning is commodity, deciding is the value, and deciding well means prioritizing by real-world exploitation, not CVSS.
+
+Triage does the deciding, free and open source. Validating, closing, and verifying the exposures it finds is the a2zsoc engagement.
+
+Clone the tool. Run it on your scan. If what it surfaces needs closing, let us talk.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#OpenSource #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE

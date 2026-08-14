@@ -1,0 +1,8 @@
+Most teams triage in a spreadsheet: paste the scan, colour by severity, argue in a meeting. It does not scale, it is not reproducible, and it is not defensible to an auditor.
+
+Triage replaces the spreadsheet with a deterministic function over authoritative feeds. Same effort as opening Excel, a defensible decision instead of coloured cells.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#GRC #Automation #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

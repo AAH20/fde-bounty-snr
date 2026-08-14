@@ -1,0 +1,11 @@
+Auditors ask how you prioritized remediation. If the answer is by CVSS, the follow-up is why you left exploited vulnerabilities open while patching unexploited ones.
+
+Triage gives you a documented, reproducible prioritization tied to CISA KEV and FIRST EPSS, with a per-finding decision and rationale. That is audit evidence, not a spreadsheet of severities.
+
+Defensible prioritization, on demand.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#GRC #Compliance #Audit #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

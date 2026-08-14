@@ -1,0 +1,8 @@
+How often does your team drop everything for a finding that turns out not to matter? Every CVSS-driven fire drill is a false-urgency event, and they destroy morale and focus.
+
+Triage drives this toward zero by escalating only exploited-and-reachable findings. Fewer fire drills, measured, is a culture metric as much as a security one.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SOC #SecurityCulture #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

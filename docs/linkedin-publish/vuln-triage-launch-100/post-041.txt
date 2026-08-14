@@ -1,0 +1,10 @@
+trivy image -f json app:latest > scan.json && triage -i scan.json
+
+Trivy is the most popular open-source scanner in the world and it produces excellent, exhaustive lists. Triage turns the list into a decision: which of these container CVEs are exploited, reachable, and worth a build failure.
+
+Two tools, one pipeline, zero list-staring. The scanner you already love, finally prioritized.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Trivy #Containers #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

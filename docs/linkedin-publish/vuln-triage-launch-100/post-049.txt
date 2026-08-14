@@ -1,0 +1,9 @@
+KEV and EPSS change. A CVE that was noise last month enters KEV this month and becomes urgent. Run Triage on a schedule against your current scan and catch that shift the day it happens.
+
+The decision is not a one-time event. Exploitation is a moving signal, and re-triaging keeps your priorities aligned with reality. The paid continuous-assurance layer automates exactly this.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#ContinuousMonitoring #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

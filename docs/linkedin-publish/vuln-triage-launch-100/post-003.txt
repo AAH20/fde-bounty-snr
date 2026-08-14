@@ -1,0 +1,10 @@
+Detection is crowded. Trivy, Grype, OpenVAS, Nuclei, Nessus all find vulnerabilities and produce lists. Not one of them decides what matters in your environment.
+
+Triage is not another scanner. It is the decision layer above all of them. Feed it any scanner's output and it returns a three-tier verdict: FIX NOW, FIX THIS CYCLE, MONITOR, with a board-ready memo.
+
+You never switch tools. You add the layer that turns a list into a decision.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DevSecOps #SecurityTools #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

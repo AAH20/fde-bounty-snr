@@ -1,0 +1,8 @@
+Tools get commoditized. Standards collect rent. If Triage becomes the reference way teams decide which vulnerabilities matter, the methodology, not any single feature, is the durable position.
+
+Own the decision standard and every scanner and platform routes through it. That is the long game beneath a free CLI.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Standards #Strategy #OpenSource #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE

@@ -1,0 +1,10 @@
+Running Grype with Syft for SBOM-based scanning? Triage ingests Grype JSON directly.
+
+Every dependency CVE Grype surfaces gets enriched with KEV and EPSS and ranked into the three tiers. You keep your SBOM workflow and add the decision layer that tells you which of those dependency findings an attacker would actually use.
+
+SBOM to decision, in one command.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Grype #SBOM #SupplyChainSecurity #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

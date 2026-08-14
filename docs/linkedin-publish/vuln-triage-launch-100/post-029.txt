@@ -1,0 +1,10 @@
+You price risk, and self-attested vulnerability posture is a weak input. What you want is evidence of what is exploited and reachable in the insured's environment, and whether they acted on it.
+
+Triage produces exactly that decision record. An insured who runs it and closes the FIX NOW items has a defensible posture, not a checkbox.
+
+The prioritization is free; the verified closure is the underwriting signal.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CyberInsurance #RiskManagement #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

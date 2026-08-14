@@ -1,0 +1,10 @@
+A vulnerability on your payments platform and the same one on a demo box do not deserve the same urgency. The technical severity is identical. The business consequence is not.
+
+Triage lets you tag asset criticality and business value, so the decision reflects what the organisation actually cares about, not just what the CVE database says.
+
+Security prioritization without business context is just noise with a ranking.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#GRC #BusinessRisk #CISO #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

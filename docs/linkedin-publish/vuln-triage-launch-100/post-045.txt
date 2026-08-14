@@ -1,0 +1,11 @@
+Point it at the package inventory or scan output for a fleet of Linux servers and get a fleet-wide decision: which hosts carry exploited-and-reachable exposures, ranked, with deadlines.
+
+Built on seven years of Linux systems work. It understands that the same CVE means different things on a bastion host and a batch worker, and it prioritizes accordingly.
+
+Fleet exposure, decided.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Linux #InfrastructureSecurity #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

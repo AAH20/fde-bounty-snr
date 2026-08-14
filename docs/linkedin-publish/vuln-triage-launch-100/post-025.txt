@@ -1,0 +1,10 @@
+Every image scan lights up with base-image CVEs, most of which are never exploited. Trivy and Grype find them; nobody can triage them all.
+
+Triage ingests Trivy and Grype JSON directly and tells you which container CVEs are actually exploited and reachable versus which are inherited base-image noise. Two CVSS 9.8s in my demo, zlib and glibc, get correctly deprioritized.
+
+Ship faster, patch what matters.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Kubernetes #Containers #CloudNative #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

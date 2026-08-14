@@ -1,0 +1,9 @@
+Any engineer can run a scanner. Far fewer can turn the output into a decision a board funds. That translation, from CVE to expected loss to authorized action, is the scarce skill.
+
+Triage builds it into a free tool, which is the top of the funnel. The calibrated, verified, remediated version is the a2zsoc engagement. The translation is where the value concentrates.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CISO #BoardGovernance #CyberRisk #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

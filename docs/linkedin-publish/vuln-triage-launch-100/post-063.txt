@@ -1,0 +1,9 @@
+There is a whole commercial category, Vulcan, Nucleus and others, whose product is exactly this decision layer. That category existing proves the value.
+
+Triage is the free, open-source, CLI-native version of the same idea: KEV plus EPSS plus reachability plus criticality. No seat licences, no cloud tenancy, no lock-in. And where you want the managed, verified, remediated version, a2zsoc provides it as a service.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#VulnerabilityManagement #OpenSource #DevSecOps #CyberSecurity #CVE

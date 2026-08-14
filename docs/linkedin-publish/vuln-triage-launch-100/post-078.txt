@@ -1,0 +1,8 @@
+Audit committees ask whether the organisation prioritizes remediation defensibly. Triage is the answer: a documented, reproducible decision per finding, tied to authoritative exploitation data.
+
+You are not explaining a gut call. You are showing a method. That is what turns an uncomfortable audit conversation into a short one.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Audit #GRC #Governance #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

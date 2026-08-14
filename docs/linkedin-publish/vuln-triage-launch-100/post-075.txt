@@ -1,0 +1,8 @@
+The memo does not say T1190. It says: this finding lets an attacker in, and the known path from there ends in your operations stopping. The ATT&CK chain is the mechanism; the business event is the message.
+
+Boards fund the prevention of business events, not the mitigation of technique ids. Triage does the translation so you do not have to.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#MITREATTACK #BoardGovernance #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

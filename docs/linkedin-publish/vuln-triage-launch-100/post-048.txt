@@ -1,0 +1,8 @@
+Before you pay for a pentest, run Triage. Close the exploited-and-reachable findings first, so the test spends its expensive hours on logic and depth, not on the KEV-listed CVE you could have patched for free.
+
+Cheaper pentests, better findings, because you did not waste them on the obvious.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#PenetrationTesting #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

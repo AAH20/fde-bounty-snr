@@ -1,0 +1,10 @@
+Someone saw a 9.8, called an emergency, and the team spent the weekend patching a vulnerability that has never been exploited and never will be, while a KEV-listed 7.5 sat open on an internet-facing box.
+
+Triage stops that. In the demo, two CVSS 9.8s (zlib, glibc) are deprioritized because they are not exploited, and a KEV finding is escalated instead.
+
+Severity panic is expensive. Evidence is cheap.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CVSS #IncidentResponse #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

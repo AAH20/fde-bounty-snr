@@ -1,0 +1,11 @@
+An auditor reviews your remediation and finds exploited vulnerabilities left open while low-risk ones were patched. Prioritized by CVSS. It happens constantly.
+
+Triage prevents it: the exploited-and-reachable are always ranked first, with a documented rationale. The audit finding never gets written, because the prioritization was defensible from the start.
+
+Cheaper than the finding.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#Audit #GRC #Compliance #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

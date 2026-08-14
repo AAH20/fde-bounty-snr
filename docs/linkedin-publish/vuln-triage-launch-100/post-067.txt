@@ -1,0 +1,8 @@
+Caldera and similar platforms run real TTPs against your environment. Powerful, and heavy, and requiring authorization and care.
+
+Triage does not execute anything. It explains the plausible ATT&CK chain as a risk narrative from the vulnerability data. Different tool, different job: emulation proves, Triage decides. Authorized emulation is available from a2zsoc as a separate engagement.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#MITREATTACK #ThreatEmulation #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

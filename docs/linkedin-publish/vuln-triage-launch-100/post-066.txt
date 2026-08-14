@@ -1,0 +1,8 @@
+The honest competitor for most teams is inaction: the scan runs, the report is ignored, and prioritization happens only after an incident.
+
+Triage lowers the cost of deciding to almost zero, which is the only thing that gets teams to actually decide before the breach instead of after. Free, one command, no excuse.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SOC #IncidentResponse #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

@@ -1,0 +1,8 @@
+You ask vendors for their vulnerability posture. They send a scan. You have no way to know if the scary-looking findings are actually dangerous or inherited base-image noise.
+
+Run their scan through Triage and you get an evidence-based read: is any of this exploited and reachable, or is it CVSS theatre. Third-party risk, decided instead of assumed.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#ThirdPartyRisk #VendorManagement #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

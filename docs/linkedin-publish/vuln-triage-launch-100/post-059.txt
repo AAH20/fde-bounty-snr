@@ -1,0 +1,9 @@
+How many assets or clients can one analyst keep triaged? For an MSP or a small team, this is the number that caps growth.
+
+Automating the decision layer raises it directly: the analyst reviews Triage output instead of raw scans, and covers far more ground. The KPI that turns a labor-bound service into a scalable one.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#MSP #Productivity #Scaling #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

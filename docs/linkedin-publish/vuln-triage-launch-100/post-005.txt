@@ -1,0 +1,12 @@
+Because the prioritization layer should not be a paywall.
+
+Detection is free and commodity. But turning a scan into a decision, using confirmed exploitation and probability instead of severity, is the part that actually saves teams from drowning, and it should be available to everyone.
+
+Triage is Apache-2.0. Clone it, run it, contribute a scanner adapter. What is paid is the follow-on: validating reachability in your environment, engineering the safe remediation, and verifying closure.
+
+Free to decide. Paid to close.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#OpenSource #AppSec #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE

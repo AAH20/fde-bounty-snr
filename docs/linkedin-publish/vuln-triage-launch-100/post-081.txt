@@ -1,0 +1,8 @@
+The tool is free and open source. The decision layer everyone needs, given away. What is paid is validating reachability in your specific environment, engineering the safe remediation, and verifying closure.
+
+Free to decide, paid to close. That is the open-core model, and it is how an open-source tool becomes an investable company.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#OpenSource #SaaS #BusinessModel #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE

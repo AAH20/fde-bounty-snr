@@ -1,0 +1,12 @@
+Every organisation has hundreds of CVSS Critical findings. CVSS cannot tell you which to fix first, because it measures technical severity in the abstract, not real-world risk.
+
+FIRST, who maintain CVSS, and CISA both say plainly: do not prioritize on CVSS alone.
+
+Triage combines the signals that actually determine risk: confirmed exploitation (CISA KEV), 30-day probability (FIRST EPSS), reachability, and business criticality. Two CVSS 9.8 findings in my demo get deprioritized, because nobody is exploiting them.
+
+That is the whole point.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CVSS #RiskManagement #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

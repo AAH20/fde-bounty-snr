@@ -1,0 +1,9 @@
+Sum the expected-loss scaffold across your FIX NOW items and track it over time. As you close exploited exposures, the number falls. As new KEV entries land, it rises.
+
+It is a range, not a precise figure, and Triage says so. But a trending expected-loss line is the board metric that turns vulnerability work into a business story.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CyberRisk #BoardGovernance #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

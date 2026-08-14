@@ -1,0 +1,8 @@
+A scanner finds vulnerabilities and produces a list. Triage decides which ones matter and produces a verdict. They are not competitors, they are layers.
+
+Keep your scanner. It is good at detection. Add Triage for the decision the scanner was never designed to make. Detection plus decision beats detection alone, every time.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#SecurityTools #DevSecOps #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

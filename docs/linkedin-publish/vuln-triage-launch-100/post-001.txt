@@ -1,0 +1,12 @@
+Your scanner found 500 CVEs. Which 12 actually matter today?
+
+That question is the daily pain of every security team, and no scanner answers it. Scanning is a solved, commodity problem. Deciding what to fix first is not.
+
+I built and open-sourced Triage: it sits on top of the scanner you already run (Trivy, Grype, OpenVAS, Nmap NSE) and turns the list into a decision, prioritized by real-world exploitation, not CVSS severity alone.
+
+Free, Apache-2.0, pure standard library. On the bundled example, 10 findings collapse to 3 that require action and 7 noise.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#AppSec #CloudSecurity #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

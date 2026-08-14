@@ -1,0 +1,11 @@
+Your board does not want a CVE count. They want to know exposure in business terms and whether it is improving.
+
+Triage produces a one-page executive memo: what is exposed, why it matters now, the expected-loss range, what to authorize, and the cost of delay. Grounded in confirmed exploitation, not severity theatre.
+
+The technical work is the tool. The board translation is built in.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CISO #BoardGovernance #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

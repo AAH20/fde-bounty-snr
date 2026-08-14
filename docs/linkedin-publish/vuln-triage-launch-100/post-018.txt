@@ -1,0 +1,8 @@
+Triage ships with a bundled KEV and EPSS sample so it runs instantly offline. Add one flag and it pulls the live feeds: over 1,600 confirmed-exploited CVEs from CISA, hundreds of thousands of EPSS scores from FIRST.
+
+The methodology is authoritative because the inputs are authoritative. Nothing invented, nothing proprietary about the data. The value is the decision layer on top.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#KEV #EPSS #ThreatIntel #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

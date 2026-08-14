@@ -1,0 +1,9 @@
+Every triage run and every engagement records which vulnerabilities show up in real environments, how they get prioritized, and which remediations work. That outcome data exists nowhere else.
+
+Public feeds are commodity. The accumulated record of what actually happens in the field is the moat, and it compounds with every use. The tool seeds it; the engagements grow it.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DataStrategy #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

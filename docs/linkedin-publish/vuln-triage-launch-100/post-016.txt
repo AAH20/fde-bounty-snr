@@ -1,0 +1,10 @@
+For each top exposure, Triage shows the plausible behavioral chain a vulnerability enables, mapped to MITRE ATT&CK: T1190 Exploit Public-Facing Application, through to T1486 Data Encrypted for Impact.
+
+It is a risk story a board understands, not an executed attack. Triage runs nothing against any target. It is not an adversary-emulation platform.
+
+Authorized emulation, actually running the TTPs safely against a replica, is a separate engagement. The tool explains; it does not exploit.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#MITREATTACK #ThreatEmulation #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

@@ -1,0 +1,12 @@
+A vulnerability scan is not the hard part. The hard part is the meeting afterward, where someone has to decide which findings justify a maintenance window and which are noise.
+
+Most teams either patch everything (impossible) or patch by CVSS (wrong). Both burn the team out.
+
+Triage answers it with evidence: of your findings, these are actively exploited, reachable, and on assets that matter. Fix these first, here is the deadline, here is why.
+
+Open source, free, runs in seconds.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#VulnerabilityManagement #SOC #DevSecOps #CyberSecurity #CVE #OpenSource

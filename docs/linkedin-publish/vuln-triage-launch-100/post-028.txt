@@ -1,0 +1,10 @@
+One person, a whole estate, and a scanner that produces more findings than you could patch in a year. You need to know where to spend your limited hours.
+
+Triage is built for exactly this: point it at your scan, get the short list of what is actually exploited and reachable, and spend your time there. Free, no infrastructure, runs on your laptop.
+
+The force multiplier for the team of one.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#CyberSecurity #InfoSec #VulnerabilityManagement #DevSecOps #CVE #OpenSource

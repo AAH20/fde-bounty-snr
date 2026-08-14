@@ -1,0 +1,9 @@
+Triage tells you what to fix and why it matters. It cannot, from a scan alone, validate reachability in your specific network, engineer a safe patch for your production, run authorized emulation, or verify that the exposure stays closed.
+
+That is the a2zsoc engagement. Free to decide, paid to close. The tool is the honest start; the service is the finish.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#DevSecOps #ManagedSecurity #VulnerabilityManagement #CyberSecurity #CVE #OpenSource

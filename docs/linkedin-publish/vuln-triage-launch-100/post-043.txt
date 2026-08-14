@@ -1,0 +1,8 @@
+Running network scans with OpenVAS or Nmap's vulners script? Export the CVEs and pipe them in. Triage accepts a plain CVE list, so any scanner that emits CVE ids feeds the decision engine.
+
+You are not locked into one ecosystem. Whatever finds the vulnerabilities, Triage decides which ones matter. Vendor-neutral by design.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/consultation?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#OpenVAS #Nmap #NetworkSecurity #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource

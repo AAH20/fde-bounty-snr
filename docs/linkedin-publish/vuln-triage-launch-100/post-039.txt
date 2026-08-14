@@ -1,0 +1,10 @@
+Your mean time to remediate is flat, because the team is spread across everything instead of focused on what matters. Effort without prioritization does not move the metric.
+
+Triage concentrates the team on the exploited-and-reachable minority. Fewer items, faster closure on the ones that count, and a measurable drop in time-to-remediate for what actually reduces risk.
+
+Focus is the lever. Prioritization is the focus.
+
+https://github.com/AAH20/vuln-triage
+https://a2zsoc.com/productized-services?utm_source=linkedin&utm_medium=social&utm_campaign=vuln-triage-launch-100
+
+#MTTR #SecurityMetrics #VulnerabilityManagement #DevSecOps #CyberSecurity #CVE #OpenSource
